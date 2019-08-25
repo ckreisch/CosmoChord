@@ -6,10 +6,10 @@ BUILD ?= MPI
 
 ifneq "$(wildcard ../camb/forutils)" ""
 FORUTILSPATH ?= $(shell pwd)/../camb/forutils
-else 
+else
 ifneq "$(wildcard ./forutils)" ""
 FORUTILSPATH ?= $(shell pwd)/forutils
-else 
+else
 ifneq "$(wildcard ../forutils)" ""
 FORUTILSPATH ?= $(shell pwd)/../forutils
 endif
@@ -51,7 +51,7 @@ endif
 ifneq ($(NERSC_HOST),)
 #setting for Edison/Cori on NERSC
 MPIF90C = ftn
-FFLAGS = -fpp -qopenmp -dynamic -axMIC-AVX512,CORE-AVX2  
+FFLAGS = -fpp -qopenmp -dynamic -axMIC-AVX512,CORE-AVX2
 else
 ifeq ($(STATIC),YES)
 #so you can re-distribute the binary to another machine
@@ -189,7 +189,7 @@ SZ = $(OUTPUT_DIR)/szcounts.o
 DATAMODULES = $(PLANCKLIKEFILES) $(OUTPUT_DIR)/mpk.o $(OUTPUT_DIR)/wigglez.o \
 	$(OUTPUT_DIR)/bao.o $(SUPERNOVAE) $(SZ) $(OUTPUT_DIR)/supernovae.o $(OUTPUT_DIR)/HST.o  $(OUTPUT_DIR)/CMB.o $(OUTPUT_DIR)/CMBlikes.o $(OUTPUT_DIR)/ElementAbundances.o
 
-DATAMODULES += $(OUTPUT_DIR)/wl.o
+DATAMODULES += $(OUTPUT_DIR)/wl.o $(OUTPUT_DIR)/wlhsc.o
 
 COSMOFILES = $(OUTPUT_DIR)/CosmologyTypes.o $(OUTPUT_DIR)/CosmoTheory.o $(OUTPUT_DIR)/bbn.o $(OUTPUT_DIR)/Calculator_Cosmology.o \
 	$(OUTPUT_DIR)/CalcLike_Cosmology.o $(OUTPUT_DIR)/Likelihood_Cosmology.o $(CALCFILES) $(DATAMODULES) $(PARAMETERIZATION) $(LIKEFILES) \
@@ -237,7 +237,7 @@ $(OUTPUT_DIR)/minimize.o: $(OUTPUT_DIR)/PowellConstrainedMinimize.o $(OUTPUT_DIR
 $(OUTPUT_DIR)/SampleCollector.o: $(OUTPUT_DIR)/MCMC.o
 $(OUTPUT_DIR)/GeneralSetup.o: $(OUTPUT_DIR)/SampleCollector.o $(OUTPUT_DIR)/ImportanceSampling.o  $(OUTPUT_DIR)/minimize.o
 
-$(OUTPUT_DIR)/nestwrap.o: $(OUTPUT_DIR)/GeneralSetup.o $(OUTPUT_DIR)/settings.o $(OUTPUT_DIR)/BaseParameters.o 
+$(OUTPUT_DIR)/nestwrap.o: $(OUTPUT_DIR)/GeneralSetup.o $(OUTPUT_DIR)/settings.o $(OUTPUT_DIR)/BaseParameters.o
 
 $(OUTPUT_DIR)/driver.o: $(OUTPUT_DIR)/GeneralSetup.o $(OUTPUT_DIR)/CosmologyConfig.o
 
@@ -256,6 +256,7 @@ $(OUTPUT_DIR)/mpk.o: $(OUTPUT_DIR)/CosmoTheory.o $(OUTPUT_DIR)/Likelihood_Cosmol
 $(OUTPUT_DIR)/wigglez.o: $(OUTPUT_DIR)/mpk.o
 $(OUTPUT_DIR)/bao.o: $(OUTPUT_DIR)/Likelihood_Cosmology.o
 $(OUTPUT_DIR)/wl.o: $(OUTPUT_DIR)/Likelihood_Cosmology.o
+$(OUTPUT_DIR)/wlhsc.o: $(OUTPUT_DIR)/Likelihood_Cosmology.o $(OUTPUT_DIR)/DataLikelihoods.o
 $(OUTPUT_DIR)/HST.o: $(OUTPUT_DIR)/Likelihood_Cosmology.o
 $(OUTPUT_DIR)/cliklike.o: $(OUTPUT_DIR)/Likelihood_Cosmology.o
 $(OUTPUT_DIR)/CosmologyConfig.o: $(PARAMETERIZATION) $(OUTPUT_DIR)/GeneralSetup.o $(OUTPUT_DIR)/Likelihood_Cosmology.o
@@ -313,7 +314,7 @@ cosmomc_debug: directories polychord camb $(OBJFILES)
 	$(F90C) -o ../cosmomc_debug $(OBJFILES) $(LINKFLAGS) $(F90FLAGS)
 
 
-clean: cleancosmomc cleanpolychord 
+clean: cleancosmomc cleanpolychord
 	cd ../camb/forutils; make clean
 
 cleancosmomc:
@@ -340,4 +341,3 @@ $(highL)/libhigh.a:
 
 $(WMAP)/libwmap9.a:
 	cd $(WMAP); make libwmap9.a;
-
