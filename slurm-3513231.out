@@ -1,0 +1,1589 @@
+/usr/share/Modules/init/sh: line 2: unalias: conda: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_reactivate: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_activate: not found
+ Number of MPI processes:         200
+ Random seeds: 25506, 26394 rand_inst:  15
+ Random seeds: 24407, 26394 rand_inst:   4
+ Random seeds: 24507, 26394 rand_inst:   5
+ Random seeds: 25407, 26394 rand_inst:  14
+ Random seeds: 25208, 26394 rand_inst:  12
+ file_root:test_plancklite_cosmochord
+ Random seeds:  8777, 26394 rand_inst: 161
+ Random seeds: 24608, 26394 rand_inst:   6
+ Random seeds: 24708, 26394 rand_inst:   7
+ Random seeds: 25008, 26394 rand_inst:  10
+ Random seeds: 25608, 26394 rand_inst:  16
+ Random seeds:  2978, 26394 rand_inst: 103
+ Random seeds: 24208, 26394 rand_inst:   2
+ Random seeds: 28207, 26394 rand_inst:  42
+ Random seeds: 25308, 26394 rand_inst:  13
+ Random seeds: 26008, 26394 rand_inst:  20
+ Random seeds: 26810, 26394 rand_inst:  28
+ Random seeds: 27810, 26394 rand_inst:  38
+ Random seeds: 24811, 26394 rand_inst:   8
+ Random seeds: 25111, 26394 rand_inst:  11
+ Random seeds: 24111, 26394 rand_inst:   1
+ Random seeds: 24911, 26394 rand_inst:   9
+ Random seeds: 25711, 26394 rand_inst:  17
+ Random seeds: 25811, 26394 rand_inst:  18
+ Random seeds: 26111, 26394 rand_inst:  21
+ Random seeds: 26211, 26394 rand_inst:  22
+ Random seeds: 26311, 26394 rand_inst:  23
+ Random seeds: 26411, 26394 rand_inst:  24
+ Random seeds: 26511, 26394 rand_inst:  25
+ Random seeds: 26711, 26394 rand_inst:  27
+ Random seeds: 26912, 26394 rand_inst:  29
+ Random seeds: 27011, 26394 rand_inst:  30
+ Random seeds: 27111, 26394 rand_inst:  31
+ Random seeds: 27311, 26394 rand_inst:  33
+ Random seeds:  6484, 26394 rand_inst: 138
+ Random seeds: 27411, 26394 rand_inst:  34
+ Random seeds: 27511, 26394 rand_inst:  35
+ Random seeds: 27611, 26394 rand_inst:  36
+ Random seeds:  8877, 26394 rand_inst: 162
+ Random seeds:  8977, 26394 rand_inst: 163
+ Random seeds:  3778, 26394 rand_inst: 111
+ Random seeds:  9077, 26394 rand_inst: 164
+ Random seeds: 27711, 26394 rand_inst:  37
+ Random seeds:  4378, 26394 rand_inst: 117
+ Random seeds:  9177, 26394 rand_inst: 165
+ Random seeds:  1680, 26394 rand_inst:  90
+ Random seeds:  9377, 26394 rand_inst: 167
+ Random seeds: 27911, 26394 rand_inst:  39
+ Random seeds:  1980, 26394 rand_inst:  93
+ Random seeds:  9477, 26394 rand_inst: 168
+ Random seeds:  2280, 26394 rand_inst:  96
+ Random seeds:  9577, 26394 rand_inst: 169
+ Random seeds: 25912, 26394 rand_inst:  19
+ Random seeds:  2380, 26394 rand_inst:  97
+ Random seeds: 28406, 26394 rand_inst:  44
+ Random seeds:  9877, 26394 rand_inst: 172
+ Random seeds:  3479, 26394 rand_inst: 108
+ Random seeds: 28606, 26394 rand_inst:  46
+ Random seeds: 10477, 26394 rand_inst: 178
+ Random seeds: 26612, 26394 rand_inst:  26
+ Random seeds:  3879, 26394 rand_inst: 112
+ Random seeds: 29106, 26394 rand_inst:  51
+ Random seeds: 10577, 26394 rand_inst: 179
+ Random seeds:   780, 26394 rand_inst:  81
+ Random seeds: 29306, 26394 rand_inst:  53
+ Random seeds:  9278, 26394 rand_inst: 166
+ Random seeds: 27212, 26394 rand_inst:  32
+ Random seeds:  1280, 26394 rand_inst:  86
+ Random seeds: 29407, 26394 rand_inst:  54
+ Random seeds:  9678, 26394 rand_inst: 170
+ Random seeds:  2681, 26394 rand_inst: 100
+ Random seeds: 29506, 26394 rand_inst:  55
+ Random seeds:  9778, 26394 rand_inst: 171
+ Random seeds: 28012, 26394 rand_inst:  40
+ Random seeds:  3280, 26394 rand_inst: 106
+ Random seeds: 29607, 26394 rand_inst:  56
+ Random seeds:  9978, 26394 rand_inst: 173
+ Random seeds:  4181, 26394 rand_inst: 115
+ Random seeds: 29806, 26394 rand_inst:  58
+ Random seeds: 10178, 26394 rand_inst: 175
+ Random seeds:  1781, 26394 rand_inst:  91
+ Random seeds: 29907, 26394 rand_inst:  59
+ Random seeds: 10278, 26394 rand_inst: 176
+ Random seeds:  4082, 26394 rand_inst: 114
+ Random seeds: 28107, 26394 rand_inst:  41
+ Random seeds: 10079, 26394 rand_inst: 174
+ Random seeds:  4482, 26394 rand_inst: 118
+ Random seeds: 28307, 26394 rand_inst:  43
+ Random seeds: 10679, 26394 rand_inst: 180
+ Random seeds:   882, 26394 rand_inst:  82
+ Random seeds: 28508, 26394 rand_inst:  45
+ Random seeds: 10377, 26394 rand_inst: 177
+ Random seeds:  3982, 26394 rand_inst: 113
+ Random seeds: 28708, 26394 rand_inst:  47
+ Random seeds: 11684, 26394 rand_inst: 190
+ Random seeds:  2883, 26394 rand_inst: 102
+ Random seeds: 28808, 26394 rand_inst:  48
+ Random seeds: 10784, 26394 rand_inst: 181
+ Random seeds:  4284, 26394 rand_inst: 116
+ Random seeds: 28907, 26394 rand_inst:  49
+ Random seeds: 10885, 26394 rand_inst: 182
+ Random seeds:   984, 26394 rand_inst:  83
+ Random seeds: 29207, 26394 rand_inst:  52
+ Random seeds: 10984, 26394 rand_inst: 183
+ Random seeds: 24307, 26394 rand_inst:   3
+ Random seeds:  2484, 26394 rand_inst:  98
+ Random seeds: 29707, 26394 rand_inst:  57
+ Random seeds: 11285, 26394 rand_inst: 186
+ Random seeds:  1184, 26394 rand_inst:  85
+ Random seeds: 30008, 26394 rand_inst:  60
+ Random seeds: 11384, 26394 rand_inst: 187
+ Random seeds:  1484, 26394 rand_inst:  88
+ Random seeds: 30108, 26394 rand_inst:  61
+ Random seeds: 11584, 26394 rand_inst: 189
+ Random seeds:  1584, 26394 rand_inst:  89
+ Random seeds: 30208, 26394 rand_inst:  62
+ Random seeds: 11785, 26394 rand_inst: 191
+ Random seeds:  2084, 26394 rand_inst:  94
+ Random seeds: 30507, 26394 rand_inst:  65
+ Random seeds: 11884, 26394 rand_inst: 192
+ Random seeds:  3084, 26394 rand_inst: 104
+ Random seeds: 30708, 26394 rand_inst:  67
+ Random seeds: 11984, 26394 rand_inst: 193
+ Random seeds:  3184, 26394 rand_inst: 105
+ Random seeds: 30808, 26394 rand_inst:  68
+ Random seeds: 12184, 26394 rand_inst: 195
+ Random seeds:  1385, 26394 rand_inst:  87
+ Random seeds: 30908, 26394 rand_inst:  69
+ Random seeds: 31008, 26394 rand_inst:  70
+ Random seeds: 31108, 26394 rand_inst:  71
+ Random seeds: 31208, 26394 rand_inst:  72
+ Random seeds: 31308, 26394 rand_inst:  73
+ Random seeds:    80, 26394 rand_inst:  74
+ Random seeds:  7286, 26395 rand_inst: 146
+ Random seeds:  7686, 26395 rand_inst: 150
+ Random seeds:  7786, 26395 rand_inst: 151
+ Random seeds:  7886, 26395 rand_inst: 152
+ Random seeds:  8086, 26395 rand_inst: 154
+ Random seeds:  8486, 26395 rand_inst: 158
+ Random seeds:  4787, 26395 rand_inst: 121
+ Random seeds:  4987, 26395 rand_inst: 123
+ Random seeds:  5087, 26395 rand_inst: 124
+ Random seeds:  5288, 26395 rand_inst: 126
+ Random seeds:  5487, 26395 rand_inst: 128
+ Random seeds:  5687, 26395 rand_inst: 130
+ Random seeds:  5786, 26395 rand_inst: 131
+ Random seeds:  5886, 26395 rand_inst: 132
+ Random seeds:  6087, 26395 rand_inst: 134
+ Random seeds:  6287, 26395 rand_inst: 136
+ Random seeds:  6387, 26395 rand_inst: 137
+ Random seeds:  6587, 26395 rand_inst: 139
+ Random seeds:  6687, 26395 rand_inst: 140
+ Random seeds:  6787, 26395 rand_inst: 141
+ Random seeds:  6887, 26395 rand_inst: 142
+ Random seeds:  6987, 26395 rand_inst: 143
+ Random seeds:  7087, 26395 rand_inst: 144
+ Random seeds:  7187, 26395 rand_inst: 145
+ Random seeds:  7387, 26395 rand_inst: 147
+ Random seeds:  7487, 26395 rand_inst: 148
+ Random seeds:  7987, 26395 rand_inst: 153
+ Random seeds:  8186, 26395 rand_inst: 155
+ Random seeds:  8287, 26395 rand_inst: 156
+ Random seeds:   180, 26394 rand_inst:  75
+ Random seeds:   280, 26394 rand_inst:  76
+ Random seeds:   480, 26394 rand_inst:  78
+ Random seeds:   579, 26394 rand_inst:  79
+ Random seeds:  2585, 26394 rand_inst:  99
+ Random seeds: 30309, 26394 rand_inst:  63
+ Random seeds:  1095, 26395 rand_inst:  84
+ Random seeds: 30409, 26394 rand_inst:  64
+ Random seeds:  1895, 26395 rand_inst:  92
+ Random seeds: 30608, 26394 rand_inst:  66
+ Random seeds:  2195, 26395 rand_inst:  95
+ Random seeds:   381, 26394 rand_inst:  77
+ Random seeds:  2795, 26395 rand_inst: 101
+ Random seeds:   681, 26394 rand_inst:  80
+ Random seeds: 12284, 26394 rand_inst: 196
+ Random seeds:  3395, 26395 rand_inst: 107
+ Random seeds: 29007, 26394 rand_inst:  50
+ Random seeds: 12484, 26394 rand_inst: 198
+ Random seeds:  3595, 26395 rand_inst: 109
+ Random seeds: 12584, 26394 rand_inst: 199
+ Random seeds:  3695, 26395 rand_inst: 110
+ Random seeds: 11085, 26394 rand_inst: 184
+ Random seeds:  4595, 26395 rand_inst: 119
+ Random seeds: 11185, 26394 rand_inst: 185
+ Random seeds:  4695, 26395 rand_inst: 120
+ Random seeds: 11485, 26394 rand_inst: 188
+ Random seeds: 12085, 26394 rand_inst: 194
+ Random seeds: 12385, 26394 rand_inst: 197
+ Random seeds: 12685, 26394 rand_inst: 200
+ Random seeds:  8387, 26395 rand_inst: 157
+ Random seeds:  8587, 26395 rand_inst: 159
+ Random seeds:  8687, 26395 rand_inst: 160
+ Random seeds:  4888, 26395 rand_inst: 122
+ Random seeds:  5188, 26395 rand_inst: 125
+ Random seeds:  5388, 26395 rand_inst: 127
+ Random seeds:  5588, 26395 rand_inst: 129
+ Random seeds:  5988, 26395 rand_inst: 133
+ Random seeds:  6188, 26395 rand_inst: 135
+ Random seeds:  7587, 26395 rand_inst: 149
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ reading BAO data set: 6DF
+ read jla dataset data/Pantheon/full_long.dataset
+ reading BAO data set: MGS
+ reading BAO data set: DR12BAO
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ Doing non-linear Pk: T
+ Doing CMB lensing: T
+ Doing non-linear lensing: T
+ TT lmax =  2500
+ EE lmax =  2500
+ ET lmax =  2500
+ BB lmax =  2500
+ PP lmax =  2500
+ lmax_computed_cl  =  2500
+ Computing tensors: F
+ max_eta_k         =    14000.00    
+ transfer kmax     =    10.20000    
+ adding parameters for: smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8
+ adding parameters for: MGS
+ adding parameters for: DR12BAO
+ adding parameters for: JLA
+ adding parameters for: 6DF
+ adding parameters for: DES_1YR_final
+ Fast divided into            1  blocks
+ 27 parameters ( 7 slow ( 0 semi-slow), 20 fast ( 0 semi-fast))
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ starting nested sampling
+
+PolyChord: Next Generation Nested Sampling
+copyright: Will Handley, Mike Hobson & Anthony Lasenby
+  version: 1.16
+  release: 1st March 2019
+    email: wh260@mrao.cam.ac.uk
+
+Run Settings
+nlive    :     500
+nDims    :      27
+nDerived :      66
+Doing Clustering
+Generating equally weighted posteriors
+Generating weighted posteriors
+Clustering on posteriors
+Writing a resume file tochains//test_plancklite_cosmochord.resume
+Sub clustering on    0 dimensions
+ 
+
+Resuming from previous run
+number of repeats:            8         800
+started sampling
+
+___________________
+lives      |   500 |
+phantoms   |415732 |
+posteriors |  2004 |
+equals     |    10 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                2004
+nposterior =                2004
+nequals    =                   8
+nlike      =               29898             3101463
+<nlike>    =          18.84        1974.16   (           2.35           2.47 per slice )
+log(Z)     =        -1226.66 +/-  0.30
+log(Z_ 1)  =        -1226.66 +/-  0.30 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |419855 |
+posteriors |  2505 |
+equals     |     7 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                2505
+nposterior =                2505
+nequals    =                  10
+nlike      =               39756             4143615
+<nlike>    =          19.72        2084.30   (           2.46           2.61 per slice )
+log(Z)     =        -1109.65 +/-  0.28
+log(Z_ 1)  =        -1109.65 +/-  0.28 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |426039 |
+posteriors |  3006 |
+equals     |     7 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                3006
+nposterior =                3006
+nequals    =                  11
+nlike      =               49654             5185179
+<nlike>    =          19.80        2083.13   (           2.47           2.60 per slice )
+log(Z)     =        -1037.12 +/-  0.23
+log(Z_ 1)  =        -1037.12 +/-  0.23 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |417432 |
+posteriors |  3507 |
+equals     |    15 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                3507
+nposterior =                3507
+nequals    =                  14
+nlike      =               59729             6252364
+<nlike>    =          20.15        2134.37   (           2.52           2.67 per slice )
+log(Z)     =         -984.03 +/-  0.24
+log(Z_ 1)  =         -984.03 +/-  0.24 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |413009 |
+posteriors |  4008 |
+equals     |    17 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                4008
+nposterior =                4008
+nequals    =                  19
+nlike      =               70299             7364275
+<nlike>    =          21.14        2223.82   (           2.64           2.78 per slice )
+log(Z)     =         -943.17 +/-  0.21
+log(Z_ 1)  =         -943.17 +/-  0.21 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |404111 |
+posteriors |  4509 |
+equals     |    21 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                4509
+nposterior =                4509
+nequals    =                  18
+nlike      =               81102             8505395
+<nlike>    =          21.61        2282.24   (           2.70           2.85 per slice )
+log(Z)     =         -911.06 +/-  0.21
+log(Z_ 1)  =         -911.06 +/-  0.21 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |420618 |
+posteriors |  5010 |
+equals     |    20 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                5010
+nposterior =                5010
+nequals    =                  24
+nlike      =               91652             9635156
+<nlike>    =          21.10        2259.52   (           2.64           2.82 per slice )
+log(Z)     =         -888.64 +/-  0.20
+log(Z_ 1)  =         -888.64 +/-  0.20 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |433409 |
+posteriors |  5511 |
+equals     |    23 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                5511
+nposterior =                5511
+nequals    =                  33
+nlike      =              101979            10723894
+<nlike>    =          20.65        2177.48   (           2.58           2.72 per slice )
+log(Z)     =         -871.68 +/-  0.19
+log(Z_ 1)  =         -871.68 +/-  0.19 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |429877 |
+posteriors |  6012 |
+equals     |    39 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                6012
+nposterior =                6012
+nequals    =                  36
+nlike      =              112594            11838906
+<nlike>    =          21.23        2230.02   (           2.65           2.79 per slice )
+log(Z)     =         -857.98 +/-  0.19
+log(Z_ 1)  =         -857.98 +/-  0.19 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |413354 |
+posteriors |  6513 |
+equals     |    65 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                6513
+nposterior =                6513
+nequals    =                  59
+nlike      =              123240            12979802
+<nlike>    =          21.29        2281.79   (           2.66           2.85 per slice )
+log(Z)     =         -845.90 +/-  0.18
+log(Z_ 1)  =         -845.90 +/-  0.18 (still evaluating)
+
+
+
+srun: Job step aborted: Waiting up to 47 seconds for job step to finish.
+slurmstepd: error: *** JOB 3513231 ON tiger-h19c1n9 CANCELLED AT 2019-08-23T17:21:38 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 3513231.0 ON tiger-h19c1n9 CANCELLED AT 2019-08-23T17:21:38 DUE TO TIME LIMIT ***
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+cosmomc            000000000079318A  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B7E4D2A25D0  Unknown               Unknown  Unknown
+cosmomc            0000000000864B68  Unknown               Unknown  Unknown
+cosmomc            0000000000754C99  Unknown               Unknown  Unknown
+cosmomc            0000000000750700  Unknown               Unknown  Unknown
+cosmomc            000000000074AA7B  Unknown               Unknown  Unknown
+libiomp5.so        00002B7E4BAB9D43  __kmp_invoke_micr     Unknown  Unknown
+libiomp5.so        00002B7E4BA887AD  __kmp_fork_call       Unknown  Unknown
+libiomp5.so        00002B7E4BA6082E  __kmpc_fork_call      Unknown  Unknown
+cosmomc            000000000074A510  Unknown               Unknown  Unknown
+cosmomc            0000000000747A77  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+cosmomc            00000000004A0A1D  Unknown               Unknown  Unknown
+cosmomc            000000000049E053  Unknown               Unknown  Unknown
+cosmomc            0000000000498B57  Unknown               Unknown  Unknown
+cosmomc            0000000000491D73  Unknown               Unknown  Unknown
+cosmomc            00000000005511D8  Unknown               Unknown  Unknown
+cosmomc            000000000054EDD9  Unknown               Unknown  Unknown
+cosmomc            0000000000558BC9  Unknown               Unknown  Unknown
+cosmomc            0000000000647D92  Unknown               Unknown  Unknown
+cosmomc            000000000064617D  Unknown               Unknown  Unknown
+cosmomc            000000000061C858  Unknown               Unknown  Unknown
+cosmomc            00000000006005CE  Unknown               Unknown  Unknown
+cosmomc            000000000055949C  Unknown               Unknown  Unknown
+cosmomc            000000000055E38F  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+cosmomc            000000000041055E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B7E4D7D3495  __libc_start_main     Unknown  Unknown
+cosmomc            0000000000410469  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+cosmomc            000000000079318A  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B94B1BD85D0  Unknown               Unknown  Unknown
+cosmomc            0000000000864B68  Unknown               Unknown  Unknown
+cosmomc            0000000000754C99  Unknown               Unknown  Unknown
+cosmomc            0000000000750700  Unknown               Unknown  Unknown
+cosmomc            000000000074AA7B  Unknown               Unknown  Unknown
+libiomp5.so        00002B94B03EFD43  __kmp_invoke_micr     Unknown  Unknown
+libiomp5.so        00002B94B03BE7AD  __kmp_fork_call       Unknown  Unknown
+libiomp5.so        00002B94B039682E  __kmpc_fork_call      Unknown  Unknown
+cosmomc            000000000074A510  Unknown               Unknown  Unknown
+cosmomc            0000000000747A77  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+cosmomc            00000000004A0A1D  Unknown               Unknown  Unknown
+cosmomc            000000000049E053  Unknown               Unknown  Unknown
+cosmomc            0000000000498B57  Unknown               Unknown  Unknown
+cosmomc            0000000000491D73  Unknown               Unknown  Unknown
+cosmomc            00000000005511D8  Unknown               Unknown  Unknown
+cosmomc            000000000054EDD9  Unknown               Unknown  Unknown
+cosmomc            0000000000558BC9  Unknown               Unknown  Unknown
+cosmomc            0000000000647D92  Unknown               Unknown  Unknown
+cosmomc            0000000000646C41  Unknown               Unknown  Unknown
+cosmomc            000000000061C858  Unknown               Unknown  Unknown
+cosmomc            00000000006005CE  Unknown               Unknown  Unknown
+cosmomc            000000000055949C  Unknown               Unknown  Unknown
+cosmomc            000000000055E38F  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+cosmomc            000000000041055E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B94B2109495  __libc_start_main     Unknown  Unknown
+cosmomc            0000000000410469  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+cosmomc            000000000079318A  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B1667E275D0  Unknown               Unknown  Unknown
+cosmomc            0000000000864B8D  Unknown               Unknown  Unknown
+cosmomc            0000000000755283  Unknown               Unknown  Unknown
+cosmomc            0000000000750700  Unknown               Unknown  Unknown
+cosmomc            000000000074AA7B  Unknown               Unknown  Unknown
+libiomp5.so        00002B166663ED43  __kmp_invoke_micr     Unknown  Unknown
+libiomp5.so        00002B166660D7AD  __kmp_fork_call       Unknown  Unknown
+libiomp5.so        00002B16665E582E  __kmpc_fork_call      Unknown  Unknown
+cosmomc            000000000074A510  Unknown               Unknown  Unknown
+cosmomc            0000000000747A77  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+
+Stack trace terminated abnormally.
+cosmomc            00000000004A0A1D  Unknown               Unknown  Unknown
+cosmomc            000000000049E053  Unknown               Unknown  Unknown
+cosmomc            0000000000498B57  Unknown               Unknown  Unknown
+cosmomc            0000000000491D73  Unknown               Unknown  Unknown
+cosmomc            00000000005511D8  Unknown               Unknown  Unknown
+cosmomc            000000000054EDD9  Unknown               Unknown  Unknown
+cosmomc            0000000000558BC9  Unknown               Unknown  Unknown
+cosmomc            0000000000647D92  Unknown               Unknown  Unknown
+cosmomc            0000000000646C41  Unknown               Unknown  Unknown
+cosmomc            000000000061C858  Unknown               Unknown  Unknown
+cosmomc            00000000006005CE  Unknown               Unknown  Unknown
+cosmomc            000000000055949C  Unknown               Unknown  Unknown
+cosmomc            000000000055E38F  Unknown               Unknown  Unknown
+cosmomc            000000000041055E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1668358495  __libc_start_main     Unknown  Unknown
+cosmomc            0000000000410469  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+cosmomc            000000000079318A  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B85F6F785D0  Unknown               Unknown  Unknown
+cosmomc            0000000000696839  Unknown               Unknown  Unknown
+cosmomc            00000000006D2F4B  Unknown               Unknown  Unknown
+cosmomc            000000000068566F  Unknown               Unknown  Unknown
+cosmomc            00000000006CE132  Unknown               Unknown  Unknown
+cosmomc            00000000006F9BC9  Unknown               Unknown  Unknown
+cosmomc            00000000006F8CA3  Unknown               Unknown  Unknown
+cosmomc            00000000006F80E5  Unknown               Unknown  Unknown
+libiomp5.so        00002B85F578FD43  __kmp_invoke_micr     Unknown  Unknown
+libiomp5.so        00002B85F575E7AD  __kmp_fork_call       Unknown  Unknown
+libiomp5.so        00002B85F573682E  __kmpc_fork_call      Unknown  Unknown
+cosmomc            00000000006F8676  Unknown               Unknown  Unknown
+cosmomc            0000000000731494  Unknown               Unknown  Unknown
+cosmomc            0000000000496F1B  Unknown               Unknown  Unknown
+cosmomc            0000000000491D07  Unknown               Unknown  Unknown
+cosmomc            00000000005511D8  Unknown               Unknown  Unknown
+cosmomc            000000000054EDD9  Unknown               Unknown  Unknown
+cosmomc            0000000000558BC9  Unknown               Unknown  Unknown
+cosmomc            0000000000647D92  Unknown               Unknown  Unknown
+cosmomc            0000000000646C41  Unknown               Unknown  Unknown
+cosmomc            000000000061C858  Unknown               Unknown  Unknown
+cosmomc            00000000006005CE  Unknown               Unknown  Unknown
+cosmomc            000000000055949C  Unknown               Unknown  Unknown
+cosmomc            000000000055E38F  Unknown               Unknown  Unknown
+cosmomc            000000000041055E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B85F74A9495  __libc_start_main     Unknown  Unknown
+cosmomc            0000000000410469  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+cosmomc            000000000079318A  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002B11550265D0  Unknown               Unknown  Unknown
+cosmomc            00000000006966E8  Unknown               Unknown  Unknown
+cosmomc            00000000006D2F4B  Unknown               Unknown  Unknown
+cosmomc            000000000068566F  Unknown               Unknown  Unknown
+cosmomc            00000000006CE132  Unknown               Unknown  Unknown
+cosmomc            00000000006F9EC0  Unknown               Unknown  Unknown
+cosmomc            00000000006F8CA3  Unknown               Unknown  Unknown
+cosmomc            00000000006F80E5  Unknown               Unknown  Unknown
+libiomp5.so        00002B115383DD43  __kmp_invoke_micr     Unknown  Unknown
+libiomp5.so        00002B115380C7AD  __kmp_fork_call       Unknown  Unknown
+libiomp5.so        00002B11537E482E  __kmpc_fork_call      Unknown  Unknown
+cosmomc            00000000006F8676  Unknown               Unknown  Unknown
+cosmomc            0000000000731494  Unknown               Unknown  Unknown
+cosmomc            0000000000496F1B  Unknown               Unknown  Unknown
+cosmomc            0000000000491D07  Unknown               Unknown  Unknown
+cosmomc            00000000005511D8  Unknown               Unknown  Unknown
+cosmomc            000000000054EDD9  Unknown               Unknown  Unknown
+cosmomc            0000000000558BC9  Unknown               Unknown  Unknown
+cosmomc            0000000000647D92  Unknown               Unknown  Unknown
+cosmomc            000000000064617D  Unknown               Unknown  Unknown
+cosmomc            000000000061C858  Unknown               Unknown  Unknown
+cosmomc            00000000006005CE  Unknown               Unknown  Unknown
+cosmomc            000000000055949C  Unknown               Unknown  Unknown
+cosmomc            000000000055E38F  Unknown               Unknown  Unknown
+cosmomc            000000000041055E  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1155557495  __libc_start_main     Unknown  Unknown
+cosmomc            0000000000410469  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+cosmomc            000000000079318A  for__signal_handl     Unknown  Unknown
+libpthread-2.17.s  00002AB7DFEF05D0  Unknown               Unknown  Unknown
+cosmomc            00000000006D7B43  Unknown               Unknown  Unknown
+cosmomc            00000000006D3127  Unknown               Unknown  Unknown
+cosmomc            0000000000684DEB  Unknown               Unknown  Unknown
+cosmomc            00000000006CE132  Unknown               Unknown  Unknown
+cosmomc            00000000006F9BC9  Unknown               Unknown  Unknown
+cosmomc            00000000006F8CA3  Unknown               Unknown  Unknown
+cosmomc            00000000006F80E5  Unknown               Unknown  Unknown
+libiomp5.so        00002AB7DE707D43  __kmp_invoke_micr     Unknown  Unknown
+libiomp5.so        00002AB7DE6D67AD  __kmp_fork_call       Unknown  Unknown

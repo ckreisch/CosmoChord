@@ -1,0 +1,170 @@
+/usr/share/Modules/init/sh: line 2: unalias: conda: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_reactivate: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_activate: not found
+ Number of MPI processes:          40
+srun: Job step aborted: Waiting up to 47 seconds for job step to finish.
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:            0
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 0
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 0)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:            1
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 1
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 1)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:            3
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 3
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 3)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:            4
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:            5
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:            6
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:            7
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:            8
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:            9
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           10
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           11
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           12
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           13
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           14
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           15
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           16
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           17
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 4
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 4)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 5
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 5)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 6
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 6)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 7
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 7)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 8
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 8)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 9
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 9)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 10
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 10)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 11
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 11)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 12
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 12)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 13
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 13)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 14
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 14)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 15
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 15)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 16
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 16)
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 17
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 17)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           18
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 18
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 18)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           19
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 19
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 19)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           20
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 20
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 20)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           21
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 21
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 21)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           22
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 22
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 22)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           23
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 23
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 23)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           24
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 24
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 24)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           25
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 25
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 25)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           26
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 26
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 26)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           27
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 27
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 27)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           28
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 28
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 28)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           29
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 29
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 29)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           30
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 30
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 30)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           31
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 31
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 31)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           32
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 32
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 32)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           33
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 33
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 33)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           34
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 34
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 34)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           35
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 35
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 35)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           36
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 36
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 36)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           37
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 37
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 37)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           38
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 38
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 38)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:           39
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 39
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 39)
+ Error :Ini_Open, file not found: testlite.ini
+ MpiStop:            2
+application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 2
+In: PMI_Abort(1869771333, application called MPI_Abort(MPI_COMM_WORLD, 1869771333) - process 2)
+slurmstepd: error: *** STEP 3512029.0 ON tiger-h25c1n7 CANCELLED AT 2019-08-23T13:24:31 ***
+slurmstepd: error: *** STEP 3512029.0 ON tiger-h25c1n7 CANCELLED AT 2019-08-23T13:24:31 ***
+srun: error: tiger-h25c1n7: tasks 0,3-4,11,15,17,19: Exited with exit code 69
+srun: Terminating job step 3512029.0
+srun: error: tiger-h25c1n7: tasks 1-2,5-10,12-14,16,18,20-39: Killed

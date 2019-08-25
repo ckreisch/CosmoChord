@@ -1,0 +1,272 @@
+/usr/share/Modules/init/sh: line 2: unalias: conda: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_reactivate: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_activate: not found
+ Number of MPI processes:          40
+ Random seeds: 22922,   167 rand_inst:   4
+ Random seeds: 24122,   167 rand_inst:  16
+ Random seeds: 24522,   167 rand_inst:  20
+ Random seeds: 25224,   167 rand_inst:  27
+ Random seeds: 25324,   167 rand_inst:  28
+ Random seeds: 26224,   167 rand_inst:  37
+ Random seeds: 24024,   167 rand_inst:  15
+ Random seeds: 26124,   167 rand_inst:  36
+ Random seeds: 26324,   167 rand_inst:  38
+ Random seeds: 23225,   167 rand_inst:   7
+ Random seeds: 23525,   167 rand_inst:  10
+ Random seeds: 23426,   167 rand_inst:   9
+ Random seeds: 24826,   167 rand_inst:  23
+ Random seeds: 22826,   167 rand_inst:   3
+ Random seeds: 23326,   167 rand_inst:   8
+ Random seeds: 23826,   167 rand_inst:  13
+ Random seeds: 25626,   167 rand_inst:  31
+ Random seeds: 26027,   167 rand_inst:  35
+ Random seeds: 23627,   167 rand_inst:  11
+ Random seeds: 25827,   167 rand_inst:  33
+ Random seeds: 26527,   167 rand_inst:  40
+ Random seeds: 24929,   167 rand_inst:  24
+ Random seeds: 24729,   167 rand_inst:  22
+ Random seeds: 25030,   168 rand_inst:  25
+ Random seeds: 25730,   168 rand_inst:  32
+ file_root:test_plancklite_cosmochord
+ Random seeds: 26437,   168 rand_inst:  39
+ Random seeds: 24637,   168 rand_inst:  21
+ Random seeds: 25437,   168 rand_inst:  29
+ Random seeds: 25138,   168 rand_inst:  26
+ Random seeds: 23038,   168 rand_inst:   5
+ Random seeds: 23938,   168 rand_inst:  14
+ Random seeds: 25938,   168 rand_inst:  34
+ Random seeds: 23139,   168 rand_inst:   6
+ Random seeds: 23739,   168 rand_inst:  12
+ Random seeds: 24239,   168 rand_inst:  17
+ Random seeds: 22640,   168 rand_inst:   1
+ Random seeds: 24439,   168 rand_inst:  19
+ Random seeds: 25539,   168 rand_inst:  30
+ Random seeds: 22740,   168 rand_inst:   2
+ Random seeds: 24340,   168 rand_inst:  18
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ reading BAO data set: 6DF
+ read jla dataset data/Pantheon/full_long.dataset
+ reading BAO data set: MGS
+ read jla dataset data/Pantheon/full_long.dataset
+ reading BAO data set: DR12BAO
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ Doing non-linear Pk: T
+ Doing CMB lensing: T
+ Doing non-linear lensing: T
+ TT lmax =  2500
+ EE lmax =  2500
+ ET lmax =  2500
+ BB lmax =  2500
+ PP lmax =  2500
+ lmax_computed_cl  =  2500
+ Computing tensors: F
+ max_eta_k         =    14000.00    
+ transfer kmax     =    10.20000    
+ adding parameters for: smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8
+ adding parameters for: MGS
+ adding parameters for: DR12BAO
+ adding parameters for: JLA
+ adding parameters for: 6DF
+ adding parameters for: DES_1YR_final
+ Fast divided into            1  blocks
+ 27 parameters ( 7 slow ( 0 semi-slow), 20 fast ( 0 semi-fast))
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ starting nested sampling
+
+PolyChord: Next Generation Nested Sampling
+copyright: Will Handley, Mike Hobson & Anthony Lasenby
+  version: 1.16
+  release: 1st March 2019
+    email: wh260@mrao.cam.ac.uk
+
+Run Settings
+nlive    :     500
+nDims    :      27
+nDerived :      66
+Doing Clustering
+Generating equally weighted posteriors
+Generating weighted posteriors
+Clustering on posteriors
+Writing a resume file tochains//test_plancklite_cosmochord.resume
+Sub clustering on    0 dimensions
+ 
+
+generating live points
+
+
+all live points generated
+
+Speed  1 =  0.660E+01 seconds
+Speed  2 =  0.440E-02 seconds     
+number of repeats:            8         800
+started sampling
+
+___________________
+lives      |   500 |
+phantoms   |259621 |
+posteriors |   501 |
+equals     |     1 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                 501
+nposterior =                 501
+nequals    =                   1
+nlike      =                5822              579078
+<nlike>    =          10.57        1058.07   (           1.32           1.32 per slice )
+log(Z)     =        -2381.84 +/-  0.79
+log(Z_ 1)  =        -2381.84 +/-  0.79 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |365377 |
+posteriors |  1002 |
+equals     |     1 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                1002
+nposterior =                1002
+nequals    =                   2
+nlike      =               13100             1339544
+<nlike>    =          14.56        1520.93   (           1.82           1.90 per slice )
+log(Z)     =        -1748.77 +/-  0.56
+log(Z_ 1)  =        -1748.77 +/-  0.56 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |414311 |
+posteriors |  1503 |
+equals     |     4 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                1503
+nposterior =                1503
+nequals    =                   3
+nlike      =               20480             2114381
+<nlike>    =          14.76        1549.67   (           1.84           1.94 per slice )
+log(Z)     =        -1435.77 +/-  0.45
+log(Z_ 1)  =        -1435.77 +/-  0.45 (still evaluating)
+
+
+
+srun: Job step aborted: Waiting up to 47 seconds for job step to finish.
+slurmstepd: error: *** JOB 3512031 ON tiger-h25c1n7 CANCELLED AT 2019-08-23T14:25:57 ***
+slurmstepd: error: *** STEP 3512031.0 ON tiger-h25c1n7 CANCELLED AT 2019-08-23T14:25:57 ***

@@ -1,0 +1,750 @@
+/usr/share/Modules/init/sh: line 2: unalias: conda: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_reactivate: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_activate: not found
+ Number of MPI processes:          40
+ file_root:test_cosmochord
+ Random seeds: 24204, 27743 rand_inst:   2
+ Random seeds: 24803, 27743 rand_inst:   8
+ Random seeds: 25104, 27743 rand_inst:  11
+ Random seeds: 25304, 27743 rand_inst:  13
+ Random seeds: 25403, 27743 rand_inst:  14
+ Random seeds: 25904, 27743 rand_inst:  19
+ Random seeds: 26003, 27743 rand_inst:  20
+ Random seeds: 24104, 27743 rand_inst:   1
+ Random seeds: 24404, 27743 rand_inst:   4
+ Random seeds: 24504, 27743 rand_inst:   5
+ Random seeds: 24604, 27743 rand_inst:   6
+ Random seeds: 25204, 27743 rand_inst:  12
+ Random seeds: 25704, 27743 rand_inst:  17
+ Random seeds: 24905, 27743 rand_inst:   9
+ Random seeds: 25505, 27743 rand_inst:  15
+ Random seeds: 25805, 27743 rand_inst:  18
+ Random seeds: 24705, 27743 rand_inst:   7
+ Random seeds: 25605, 27743 rand_inst:  16
+ Random seeds: 25007, 27744 rand_inst:  10
+ Random seeds: 26309, 27744 rand_inst:  23
+ Random seeds: 26409, 27744 rand_inst:  24
+ Random seeds: 26509, 27744 rand_inst:  25
+ Random seeds: 26609, 27744 rand_inst:  26
+ Random seeds: 26709, 27744 rand_inst:  27
+ Random seeds: 26809, 27744 rand_inst:  28
+ Random seeds: 26909, 27744 rand_inst:  29
+ Random seeds: 27010, 27744 rand_inst:  30
+ Random seeds: 27309, 27744 rand_inst:  33
+ Random seeds: 27409, 27744 rand_inst:  34
+ Random seeds: 27510, 27744 rand_inst:  35
+ Random seeds: 27609, 27744 rand_inst:  36
+ Random seeds: 27810, 27744 rand_inst:  38
+ Random seeds: 27910, 27744 rand_inst:  39
+ Random seeds: 28009, 27744 rand_inst:  40
+ Random seeds: 26110, 27744 rand_inst:  21
+ Random seeds: 26211, 27744 rand_inst:  22
+ Random seeds: 27110, 27744 rand_inst:  31
+ Random seeds: 27210, 27744 rand_inst:  32
+ Random seeds: 27710, 27744 rand_inst:  37
+ Random seeds: 24304, 27743 rand_inst:   3
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ reading BAO data set: 6DF
+ read jla dataset data/Pantheon/full_long.dataset
+ reading BAO data set: MGS
+ read jla dataset data/Pantheon/full_long.dataset
+ reading BAO data set: DR12BAO
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ Doing non-linear Pk: T
+ Doing CMB lensing: T
+ Doing non-linear lensing: T
+ TT lmax =  2500
+ EE lmax =  2500
+ ET lmax =  2500
+ BB lmax =  2500
+ PP lmax =  2500
+ lmax_computed_cl  =  2500
+ Computing tensors: F
+ max_eta_k         =    14000.00    
+ transfer kmax     =    10.20000    
+ adding parameters for: smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8
+ adding parameters for: MGS
+ adding parameters for: DR12BAO
+ adding parameters for: 6DF
+ adding parameters for: JLA
+ adding parameters for: BK15_dust
+ adding parameters for: DES_1YR_final
+ Fast divided into            2  blocks
+ Block breaks at:           15
+ 34 parameters ( 7 slow ( 0 semi-slow), 27 fast ( 0 semi-fast))
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ starting nested sampling
+
+PolyChord: Next Generation Nested Sampling
+copyright: Will Handley, Mike Hobson & Anthony Lasenby
+  version: 1.16
+  release: 1st March 2019
+    email: wh260@mrao.cam.ac.uk
+
+Run Settings
+nlive    :     500
+nDims    :      34
+nDerived :      68
+Doing Clustering
+Generating equally weighted posteriors
+Generating weighted posteriors
+Clustering on posteriors
+Writing a resume file tochains//test_cosmochord.resume
+Sub clustering on    0 dimensions
+ 
+
+generating live points
+
+
+all live points generated
+
+Speed  1 =  0.658E+01 seconds
+Speed  2 =  0.644E-02 seconds     
+number of repeats:            8         545
+started sampling
+
+___________________
+lives      |   500 |
+phantoms   |174982 |
+posteriors |   501 |
+equals     |     1 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                 501
+nposterior =                 501
+nequals    =                   1
+nlike      =                5573              378737
+<nlike>    =          10.07         689.18   (           1.26           1.26 per slice )
+log(Z)     =        -2914.95 +/-  0.75
+log(Z_ 1)  =        -2914.95 +/-  0.75 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |243710 |
+posteriors |  1002 |
+equals     |     3 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                1002
+nposterior =                1002
+nequals    =                   3
+nlike      =               12538              860449
+<nlike>    =          13.93         963.42   (           1.74           1.77 per slice )
+log(Z)     =        -2203.70 +/-  0.48
+log(Z_ 1)  =        -2203.70 +/-  0.48 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |263199 |
+posteriors |  1503 |
+equals     |     2 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                1503
+nposterior =                1503
+nequals    =                   3
+nlike      =               19953             1376009
+<nlike>    =          14.83        1031.12   (           1.85           1.89 per slice )
+log(Z)     =        -1851.54 +/-  0.43
+log(Z_ 1)  =        -1851.54 +/-  0.43 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |272570 |
+posteriors |  2004 |
+equals     |     5 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                2004
+nposterior =                2004
+nequals    =                   6
+nlike      =               27476             1899598
+<nlike>    =          15.05        1047.18   (           1.88           1.92 per slice )
+log(Z)     =        -1653.61 +/-  0.30
+log(Z_ 1)  =        -1653.61 +/-  0.30 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |274890 |
+posteriors |  2505 |
+equals     |     9 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                2505
+nposterior =                2505
+nequals    =                   6
+nlike      =               34867             2412659
+<nlike>    =          14.78        1026.12   (           1.85           1.88 per slice )
+log(Z)     =        -1537.33 +/-  0.29
+log(Z_ 1)  =        -1537.33 +/-  0.29 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |271028 |
+posteriors |  3006 |
+equals     |     8 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                3006
+nposterior =                3006
+nequals    =                   5
+nlike      =               42627             2955389
+<nlike>    =          15.52        1085.46   (           1.94           1.99 per slice )
+log(Z)     =        -1455.98 +/-  0.30
+log(Z_ 1)  =        -1455.98 +/-  0.30 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |273096 |
+posteriors |  3507 |
+equals     |    11 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                3507
+nposterior =                3507
+nequals    =                  12
+nlike      =               50255             3494758
+<nlike>    =          15.26        1078.74   (           1.91           1.98 per slice )
+log(Z)     =        -1398.81 +/-  0.25
+log(Z_ 1)  =        -1398.81 +/-  0.25 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |265610 |
+posteriors |  4008 |
+equals     |    14 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                4008
+nposterior =                4008
+nequals    =                  14
+nlike      =               58104             4046441
+<nlike>    =          15.70        1103.37   (           1.96           2.02 per slice )
+log(Z)     =        -1355.72 +/-  0.23
+log(Z_ 1)  =        -1355.72 +/-  0.23 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |279815 |
+posteriors |  4509 |
+equals     |    23 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                4509
+nposterior =                4509
+nequals    =                  21
+nlike      =               65988             4606251
+<nlike>    =          15.77        1119.62   (           1.97           2.05 per slice )
+log(Z)     =        -1324.64 +/-  0.21
+log(Z_ 1)  =        -1324.64 +/-  0.21 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |286416 |
+posteriors |  5010 |
+equals     |    20 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                5010
+nposterior =                5010
+nequals    =                  18
+nlike      =               73908             5169674
+<nlike>    =          15.84        1126.85   (           1.98           2.07 per slice )
+log(Z)     =        -1300.28 +/-  0.21
+log(Z_ 1)  =        -1300.28 +/-  0.21 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |274737 |
+posteriors |  5511 |
+equals     |    11 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                5511
+nposterior =                5511
+nequals    =                  13
+nlike      =               81907             5736822
+<nlike>    =          16.00        1134.30   (           2.00           2.08 per slice )
+log(Z)     =        -1279.42 +/-  0.21
+log(Z_ 1)  =        -1279.42 +/-  0.21 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |277311 |
+posteriors |  6012 |
+equals     |    30 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                6012
+nposterior =                6012
+nequals    =                  26
+nlike      =               89886             6304470
+<nlike>    =          15.96        1135.30   (           1.99           2.08 per slice )
+log(Z)     =        -1262.41 +/-  0.20
+log(Z_ 1)  =        -1262.41 +/-  0.20 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |281865 |
+posteriors |  6513 |
+equals     |    48 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                6513
+nposterior =                6513
+nequals    =                  52
+nlike      =               97825             6876458
+<nlike>    =          15.88        1143.98   (           1.98           2.10 per slice )
+log(Z)     =        -1248.09 +/-  0.19
+log(Z_ 1)  =        -1248.09 +/-  0.19 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |274916 |
+posteriors |  7014 |
+equals     |    39 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                7014
+nposterior =                7014
+nequals    =                  33
+nlike      =              106058             7462280
+<nlike>    =          16.47        1171.64   (           2.06           2.15 per slice )
+log(Z)     =        -1236.63 +/-  0.20
+log(Z_ 1)  =        -1236.63 +/-  0.20 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |265197 |
+posteriors |  7515 |
+equals     |    48 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                7515
+nposterior =                7515
+nequals    =                  45
+nlike      =              114045             8038086
+<nlike>    =          15.97        1151.61   (           2.00           2.11 per slice )
+log(Z)     =        -1226.03 +/-  0.20
+log(Z_ 1)  =        -1226.03 +/-  0.20 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |279222 |
+posteriors |  8016 |
+equals     |    63 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                8016
+nposterior =                8016
+nequals    =                  79
+nlike      =              122209             8619785
+<nlike>    =          16.33        1163.40   (           2.04           2.13 per slice )
+log(Z)     =        -1217.22 +/-  0.19
+log(Z_ 1)  =        -1217.22 +/-  0.19 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |274670 |
+posteriors |  8517 |
+equals     |   103 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                8517
+nposterior =                8517
+nequals    =                  90
+nlike      =              130450             9209024
+<nlike>    =          16.48        1178.48   (           2.06           2.16 per slice )
+log(Z)     =        -1209.97 +/-  0.19
+log(Z_ 1)  =        -1209.97 +/-  0.19 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |268787 |
+posteriors |  9018 |
+equals     |    88 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                9018
+nposterior =                9018
+nequals    =                 100
+nlike      =              138974             9809046
+<nlike>    =          17.05        1200.04   (           2.13           2.20 per slice )
+log(Z)     =        -1204.11 +/-  0.20
+log(Z_ 1)  =        -1204.11 +/-  0.20 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |270982 |
+posteriors |  9519 |
+equals     |   113 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =                9519
+nposterior =                9519
+nequals    =                 101
+nlike      =              147378            10413186
+<nlike>    =          16.81        1208.28   (           2.10           2.22 per slice )
+log(Z)     =        -1199.35 +/-  0.20
+log(Z_ 1)  =        -1199.35 +/-  0.20 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |267574 |
+posteriors | 10020 |
+equals     |   139 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               10020
+nposterior =               10020
+nequals    =                 139
+nlike      =              155886            11014048
+<nlike>    =          17.02        1201.72   (           2.13           2.20 per slice )
+log(Z)     =        -1195.36 +/-  0.20
+log(Z_ 1)  =        -1195.36 +/-  0.20 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |270345 |
+posteriors | 10521 |
+equals     |   173 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               10521
+nposterior =               10521
+nequals    =                 160
+nlike      =              164541            11622579
+<nlike>    =          17.31        1217.06   (           2.16           2.23 per slice )
+log(Z)     =        -1192.25 +/-  0.20
+log(Z_ 1)  =        -1192.25 +/-  0.20 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |272348 |
+posteriors | 11022 |
+equals     |   235 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               11022
+nposterior =               11022
+nequals    =                 221
+nlike      =              173186            12237231
+<nlike>    =          17.29        1229.30   (           2.16           2.26 per slice )
+log(Z)     =        -1189.62 +/-  0.21
+log(Z_ 1)  =        -1189.62 +/-  0.21 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |271586 |
+posteriors | 11523 |
+equals     |   268 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               11523
+nposterior =               11523
+nequals    =                 258
+nlike      =              181843            12860030
+<nlike>    =          17.31        1245.60   (           2.16           2.29 per slice )
+log(Z)     =        -1187.70 +/-  0.21
+log(Z_ 1)  =        -1187.70 +/-  0.21 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |257816 |
+posteriors | 12024 |
+equals     |   296 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               12024
+nposterior =               12024
+nequals    =                 323
+nlike      =              190573            13479789
+<nlike>    =          17.46        1239.52   (           2.18           2.27 per slice )
+log(Z)     =        -1186.06 +/-  0.21
+log(Z_ 1)  =        -1186.06 +/-  0.21 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |265587 |
+posteriors | 12525 |
+equals     |   438 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               12525
+nposterior =               12525
+nequals    =                 406
+nlike      =              199390            14114108
+<nlike>    =          17.63        1268.64   (           2.20           2.33 per slice )
+log(Z)     =        -1184.69 +/-  0.22
+log(Z_ 1)  =        -1184.69 +/-  0.22 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |272825 |
+posteriors | 13026 |
+equals     |   567 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               13026
+nposterior =               13026
+nequals    =                 549
+nlike      =              208591            14760107
+<nlike>    =          18.40        1292.00   (           2.30           2.37 per slice )
+log(Z)     =        -1183.67 +/-  0.22
+log(Z_ 1)  =        -1183.67 +/-  0.22 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |282303 |
+posteriors | 13527 |
+equals     |   758 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               13527
+nposterior =               13527
+nequals    =                 756
+nlike      =              217758            15415669
+<nlike>    =          18.33        1311.12   (           2.29           2.41 per slice )
+log(Z)     =        -1182.88 +/-  0.22
+log(Z_ 1)  =        -1182.88 +/-  0.22 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |275050 |
+posteriors | 14028 |
+equals     |   934 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               14028
+nposterior =               14028
+nequals    =                 928
+nlike      =              227114            16082981
+<nlike>    =          18.71        1334.62   (           2.34           2.45 per slice )
+log(Z)     =        -1182.29 +/-  0.22
+log(Z_ 1)  =        -1182.29 +/-  0.22 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |279361 |
+posteriors | 14529 |
+equals     |  1221 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               14529
+nposterior =               14529
+nequals    =                1229
+nlike      =              236452            16749624
+<nlike>    =          18.68        1333.29   (           2.33           2.45 per slice )
+log(Z)     =        -1181.81 +/-  0.23
+log(Z_ 1)  =        -1181.81 +/-  0.23 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |271139 |
+posteriors | 15030 |
+equals     |  1584 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               15030
+nposterior =               15030
+nequals    =                1592
+nlike      =              245696            17411393
+<nlike>    =          18.49        1323.54   (           2.31           2.43 per slice )
+log(Z)     =        -1181.44 +/-  0.23
+log(Z_ 1)  =        -1181.44 +/-  0.23 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |275898 |
+posteriors | 15531 |
+equals     |  2063 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               15531
+nposterior =               15531
+nequals    =                2072
+nlike      =              255247            18086565
+<nlike>    =          19.10        1350.34   (           2.39           2.48 per slice )
+log(Z)     =        -1181.17 +/-  0.23
+log(Z_ 1)  =        -1181.17 +/-  0.23 (still evaluating)
+
+
+
+srun: Job step aborted: Waiting up to 47 seconds for job step to finish.
+slurmstepd: error: *** JOB 3508380 ON tiger-i26c2n16 CANCELLED AT 2019-08-23T04:29:59 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 3508380.0 ON tiger-i26c2n16 CANCELLED AT 2019-08-23T04:29:59 DUE TO TIME LIMIT ***

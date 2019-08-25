@@ -1,0 +1,1143 @@
+/usr/share/Modules/init/sh: line 2: unalias: conda: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_reactivate: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_activate: not found
+ Number of MPI processes:         200
+ Random seeds:  5651, 18941 rand_inst: 161
+ Random seeds:  6088, 18954 rand_inst: 164
+ Random seeds:  5889, 18954 rand_inst: 162
+ Random seeds:  6389, 18954 rand_inst: 167
+ Random seeds:  6310, 18957 rand_inst: 166
+ Random seeds:  6511, 18957 rand_inst: 168
+ Random seeds:  6612, 18957 rand_inst: 169
+ Random seeds:  7012, 18957 rand_inst: 173
+ Random seeds:  7113, 18957 rand_inst: 174
+ Random seeds:  6213, 18957 rand_inst: 165
+ Random seeds:  7513, 18957 rand_inst: 178
+ Random seeds:  6914, 18957 rand_inst: 172
+ Random seeds:  6013, 18957 rand_inst: 163
+ Random seeds:  7214, 18957 rand_inst: 175
+ Random seeds:  6815, 18957 rand_inst: 171
+ Random seeds:  7415, 18957 rand_inst: 177
+ Random seeds:  6715, 18957 rand_inst: 170
+ Random seeds:  7315, 18957 rand_inst: 176
+ Random seeds:  7717, 18957 rand_inst: 180
+ Random seeds:  7917, 18957 rand_inst: 182
+ Random seeds:  8118, 18957 rand_inst: 184
+ Random seeds:  8518, 18957 rand_inst: 188
+ Random seeds:  8319, 18957 rand_inst: 186
+ Random seeds:  8718, 18957 rand_inst: 190
+ Random seeds:  8019, 18957 rand_inst: 183
+ Random seeds:  8919, 18957 rand_inst: 192
+ Random seeds:  9019, 18957 rand_inst: 193
+ Random seeds:  9219, 18957 rand_inst: 195
+ Random seeds:  9520, 18958 rand_inst: 198
+ Random seeds:  7820, 18958 rand_inst: 181
+ Random seeds:  8420, 18958 rand_inst: 187
+ Random seeds:  9121, 18958 rand_inst: 194
+ Random seeds:  9321, 18958 rand_inst: 196
+ Random seeds:  8622, 18958 rand_inst: 189
+ Random seeds:  9722, 18958 rand_inst: 200
+ Random seeds:  9424, 18958 rand_inst: 197
+ Random seeds:  7623, 18958 rand_inst: 179
+ Random seeds:  8224, 18958 rand_inst: 185
+ Random seeds:  8828, 18958 rand_inst: 191
+ Random seeds:  9628, 18958 rand_inst: 199
+ Random seeds: 24135, 19206 rand_inst:   6
+ Random seeds: 25035, 19206 rand_inst:  15
+ Random seeds: 24038, 19207 rand_inst:   5
+ Random seeds: 25138, 19207 rand_inst:  16
+ Random seeds: 25938, 19207 rand_inst:  24
+ Random seeds: 29033, 19206 rand_inst:  55
+ Random seeds: 26638, 19207 rand_inst:  31
+ Random seeds: 27239, 19207 rand_inst:  37
+ Random seeds: 26139, 19207 rand_inst:  26
+ Random seeds:  4307, 19206 rand_inst: 121
+ Random seeds: 23839, 19207 rand_inst:   3
+ Random seeds: 24640, 19207 rand_inst:  11
+ Random seeds:  4109, 19206 rand_inst: 119
+ Random seeds: 26439, 19207 rand_inst:  29
+ Random seeds: 23740, 19207 rand_inst:   2
+ Random seeds: 25241, 19207 rand_inst:  17
+ Random seeds: 24742, 19207 rand_inst:  12
+ Random seeds: 26243, 19207 rand_inst:  27
+ Random seeds: 24243, 19207 rand_inst:   7
+ Random seeds: 26943, 19207 rand_inst:  34
+ Random seeds: 25344, 19207 rand_inst:  18
+ Random seeds: 24544, 19207 rand_inst:  10
+ Random seeds: 24844, 19207 rand_inst:  13
+ Random seeds: 25445, 19207 rand_inst:  19
+ Random seeds: 24945, 19207 rand_inst:  14
+ Random seeds: 23946, 19207 rand_inst:   4
+ Random seeds: 27446, 19207 rand_inst:  39
+ file_root:test_plancklite_cosmochord
+ Random seeds: 24447, 19207 rand_inst:   9
+ Random seeds: 29733, 19206 rand_inst:  62
+ Random seeds: 25546, 19207 rand_inst:  20
+ Random seeds: 29933, 19206 rand_inst:  64
+ Random seeds: 30833, 19206 rand_inst:  73
+ Random seeds: 31133, 19206 rand_inst:  76
+ Random seeds: 26547, 19207 rand_inst:  30
+ Random seeds:   105, 19206 rand_inst:  79
+ Random seeds: 29635, 19206 rand_inst:  61
+ Random seeds: 29834, 19206 rand_inst:  63
+ Random seeds: 27047, 19207 rand_inst:  35
+ Random seeds: 30634, 19206 rand_inst:  71
+ Random seeds: 31234, 19206 rand_inst:  77
+ Random seeds: 27835, 19206 rand_inst:  43
+ Random seeds: 27348, 19208 rand_inst:  38
+ Random seeds: 30135, 19206 rand_inst:  66
+ Random seeds: 30236, 19206 rand_inst:  67
+ Random seeds: 29536, 19206 rand_inst:  60
+ Random seeds: 25848, 19208 rand_inst:  23
+ Random seeds: 30936, 19206 rand_inst:  74
+ Random seeds: 29337, 19206 rand_inst:  58
+ Random seeds: 30537, 19206 rand_inst:  70
+ Random seeds: 27938, 19207 rand_inst:  44
+ Random seeds:  4707, 19206 rand_inst: 125
+ Random seeds: 26749, 19208 rand_inst:  32
+ Random seeds: 28538, 19207 rand_inst:  50
+ Random seeds:  4807, 19206 rand_inst: 126
+ Random seeds: 28737, 19206 rand_inst:  52
+ Random seeds:  5107, 19206 rand_inst: 129
+ Random seeds: 29238, 19207 rand_inst:  57
+ Random seeds:  5307, 19206 rand_inst: 131
+ Random seeds: 26849, 19208 rand_inst:  33
+ Random seeds: 27638, 19207 rand_inst:  41
+ Random seeds:  5407, 19206 rand_inst: 132
+ Random seeds: 30039, 19207 rand_inst:  65
+ Random seeds:  5707, 19206 rand_inst: 135
+ Random seeds: 23650, 19208 rand_inst:   1
+ Random seeds:    12, 19207 rand_inst:  78
+ Random seeds:  6007, 19206 rand_inst: 138
+ Random seeds: 28140, 19207 rand_inst:  46
+ Random seeds:  6107, 19206 rand_inst: 139
+ Random seeds: 25749, 19208 rand_inst:  22
+ Random seeds: 28341, 19207 rand_inst:  48
+ Random seeds:  6207, 19206 rand_inst: 140
+ Random seeds: 28242, 19207 rand_inst:  47
+ Random seeds:  4409, 19206 rand_inst: 122
+ Random seeds: 28842, 19207 rand_inst:  53
+ Random seeds:  4508, 19206 rand_inst: 123
+ Random seeds: 27549, 19208 rand_inst:  40
+ Random seeds: 29142, 19207 rand_inst:  56
+ Random seeds:  4608, 19206 rand_inst: 124
+ Random seeds:  4908, 19206 rand_inst: 127
+ Random seeds:  5008, 19206 rand_inst: 128
+ Random seeds: 24350, 19208 rand_inst:   8
+ Random seeds:  5509, 19206 rand_inst: 133
+ Random seeds:  5608, 19206 rand_inst: 134
+ Random seeds:  5908, 19206 rand_inst: 137
+ Random seeds:  5210, 19207 rand_inst: 130
+ Random seeds: 26351, 19208 rand_inst:  28
+ Random seeds:  6512, 19207 rand_inst: 143
+ Random seeds:  6712, 19207 rand_inst: 145
+ Random seeds:  6811, 19207 rand_inst: 146
+ Random seeds:  7512, 19207 rand_inst: 153
+ Random seeds:  8011, 19207 rand_inst: 158
+ Random seeds:  6312, 19207 rand_inst: 141
+ Random seeds:  6613, 19207 rand_inst: 144
+ Random seeds:  6913, 19207 rand_inst: 147
+ Random seeds:  7213, 19207 rand_inst: 150
+ Random seeds:  7313, 19207 rand_inst: 151
+ Random seeds:  7413, 19207 rand_inst: 152
+ Random seeds: 25651, 19208 rand_inst:  21
+ Random seeds: 26052, 19208 rand_inst:  25
+ Random seeds: 27153, 19208 rand_inst:  36
+ Random seeds:  2510, 19207 rand_inst: 103
+ Random seeds:  3210, 19207 rand_inst: 110
+ Random seeds:  3310, 19207 rand_inst: 111
+ Random seeds:  3410, 19207 rand_inst: 112
+ Random seeds:  3511, 19207 rand_inst: 113
+ Random seeds:  3610, 19207 rand_inst: 114
+ Random seeds:  3810, 19207 rand_inst: 116
+ Random seeds:  3711, 19207 rand_inst: 115
+ Random seeds:  3012, 19207 rand_inst: 108
+ Random seeds:  2412, 19207 rand_inst: 102
+ Random seeds:  2013, 19207 rand_inst:  98
+ Random seeds:   413, 19207 rand_inst:  82
+ Random seeds:   513, 19207 rand_inst:  83
+ Random seeds:   613, 19207 rand_inst:  84
+ Random seeds:   713, 19207 rand_inst:  85
+ Random seeds:  1213, 19207 rand_inst:  90
+ Random seeds:  2713, 19207 rand_inst: 105
+ Random seeds:  2314, 19207 rand_inst: 101
+ Random seeds:  2814, 19207 rand_inst: 106
+ Random seeds:  2914, 19207 rand_inst: 107
+ Random seeds:  3114, 19207 rand_inst: 109
+ Random seeds:  2615, 19207 rand_inst: 104
+ Random seeds:  1915, 19207 rand_inst:  97
+ Random seeds:  4223, 19208 rand_inst: 120
+ Random seeds:  1524, 19208 rand_inst:  93
+ Random seeds:  4024, 19208 rand_inst: 118
+ Random seeds:   324, 19208 rand_inst:  81
+ Random seeds:   824, 19208 rand_inst:  86
+ Random seeds:   924, 19208 rand_inst:  87
+ Random seeds: 30349, 19208 rand_inst:  68
+ Random seeds:  7613, 19207 rand_inst: 154
+ Random seeds:  1024, 19208 rand_inst:  88
+ Random seeds: 28950, 19208 rand_inst:  54
+ Random seeds:  7713, 19207 rand_inst: 155
+ Random seeds:  1124, 19208 rand_inst:  89
+ Random seeds: 30450, 19208 rand_inst:  69
+ Random seeds:  7913, 19207 rand_inst: 157
+ Random seeds:  1424, 19208 rand_inst:  92
+ Random seeds: 28651, 19208 rand_inst:  51
+ Random seeds:  8213, 19207 rand_inst: 160
+ Random seeds:  1624, 19208 rand_inst:  94
+ Random seeds: 30751, 19208 rand_inst:  72
+ Random seeds:  6414, 19207 rand_inst: 142
+ Random seeds:  1724, 19208 rand_inst:  95
+ Random seeds: 27751, 19208 rand_inst:  42
+ Random seeds:  7114, 19207 rand_inst: 149
+ Random seeds:  1824, 19208 rand_inst:  96
+ Random seeds: 28051, 19208 rand_inst:  45
+ Random seeds:  7813, 19207 rand_inst: 156
+ Random seeds:  1324, 19208 rand_inst:  91
+ Random seeds: 28451, 19208 rand_inst:  49
+ Random seeds:  8114, 19207 rand_inst: 159
+ Random seeds:  2225, 19208 rand_inst: 100
+ Random seeds: 31051, 19208 rand_inst:  75
+ Random seeds:  7014, 19207 rand_inst: 148
+ Random seeds:  3924, 19208 rand_inst: 117
+ Random seeds:   223, 19208 rand_inst:  80
+ Random seeds:  5808, 19206 rand_inst: 136
+ Random seeds:  2125, 19208 rand_inst:  99
+ Random seeds: 29452, 19208 rand_inst:  59
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ reading BAO data set: 6DF
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ reading BAO data set: MGS
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ reading BAO data set: DR12BAO
+ read jla dataset data/Pantheon/full_long.dataset
+ read jla dataset data/Pantheon/full_long.dataset
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ reading WL data set: DES_1YR_final
+ Doing non-linear Pk: T
+ Doing CMB lensing: T
+ Doing non-linear lensing: T
+ TT lmax =  2500
+ EE lmax =  2500
+ ET lmax =  2500
+ BB lmax =  2500
+ PP lmax =  2500
+ lmax_computed_cl  =  2500
+ Computing tensors: F
+ max_eta_k         =    14000.00    
+ transfer kmax     =    10.20000    
+ adding parameters for: smicadx12_Dec5_ftl_mv2_ndclpp_p_teb_consext8
+ adding parameters for: MGS
+ adding parameters for: DR12BAO
+ adding parameters for: JLA
+ adding parameters for: 6DF
+ adding parameters for: DES_1YR_final
+ Fast divided into            1  blocks
+ 27 parameters ( 7 slow ( 0 semi-slow), 20 fast ( 0 semi-fast))
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ starting nested sampling
+
+PolyChord: Next Generation Nested Sampling
+copyright: Will Handley, Mike Hobson & Anthony Lasenby
+  version: 1.16
+  release: 1st March 2019
+    email: wh260@mrao.cam.ac.uk
+
+Run Settings
+nlive    :     500
+nDims    :      27
+nDerived :      66
+Doing Clustering
+Generating equally weighted posteriors
+Generating weighted posteriors
+Clustering on posteriors
+Writing a resume file tochains//test_plancklite_cosmochord.resume
+Sub clustering on    0 dimensions
+ 
+
+Resuming from previous run
+number of repeats:            8         800
+started sampling
+
+___________________
+lives      |   500 |
+phantoms   |395327 |
+posteriors | 16032 |
+equals     |  2885 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               16032
+nposterior =               16032
+nequals    =                2887
+nlike      =              344730            36468551
+<nlike>    =          23.78        2564.22   (           2.97           3.21 per slice )
+log(Z)     =         -805.46 +/-  0.22
+log(Z_ 1)  =         -805.46 +/-  0.22 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |384817 |
+posteriors | 16533 |
+equals     |  2905 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               16533
+nposterior =               16533
+nequals    =                2910
+nlike      =              357083            37784663
+<nlike>    =          24.71        2632.22   (           3.09           3.29 per slice )
+log(Z)     =         -805.45 +/-  0.22
+log(Z_ 1)  =         -805.45 +/-  0.22 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |392814 |
+posteriors | 17034 |
+equals     |  2919 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               17034
+nposterior =               17034
+nequals    =                2920
+nlike      =              369523            39103559
+<nlike>    =          24.88        2637.79   (           3.11           3.30 per slice )
+log(Z)     =         -805.45 +/-  0.22
+log(Z_ 1)  =         -805.45 +/-  0.22 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |396383 |
+posteriors | 17535 |
+equals     |  2928 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               17535
+nposterior =               17535
+nequals    =                2927
+nlike      =              381388            40363732
+<nlike>    =          23.73        2520.35   (           2.97           3.15 per slice )
+log(Z)     =         -805.45 +/-  0.22
+log(Z_ 1)  =         -805.45 +/-  0.22 (still evaluating)
+
+
+
+___________________
+lives      |   500 |
+phantoms   |414350 |
+posteriors | 18036 |
+equals     |  2933 |
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+ncluster   =       1 /       1
+ndead      =               18036
+nposterior =               18036
+nequals    =                2929
+nlike      =              393674            41669555
+<nlike>    =          24.57        2611.65   (           3.07           3.26 per slice )
+log(Z)     =         -805.45 +/-  0.22
+log(Z_ 1)  =         -805.45 +/-  0.22 (still evaluating)
+
+
+
+ ____________________________________________________ 
+|                                                    |
+| ndead  =        18565                              |
+| log(Z) =         -805.44542 +/-            0.21549 |
+|____________________________________________________|
+Slave 52: efficient MPI parallisation; wait_time/slice_time=    0.87130751E-03
+Slave179: efficient MPI parallisation; wait_time/slice_time=    0.15865670E-01
+Slave 55: efficient MPI parallisation; wait_time/slice_time=    0.10930704E-01
+Slave141: efficient MPI parallisation; wait_time/slice_time=    0.11771311E-01
+Slave 85: efficient MPI parallisation; wait_time/slice_time=    0.10013877E-01
+Slave 46: efficient MPI parallisation; wait_time/slice_time=    0.21874814E-02
+Slave121: efficient MPI parallisation; wait_time/slice_time=    0.43109141E-05
+Slave108: efficient MPI parallisation; wait_time/slice_time=    0.88432594E-02
+Slave 45: efficient MPI parallisation; wait_time/slice_time=    0.40242516E-02
+Slave130: efficient MPI parallisation; wait_time/slice_time=    0.14157636E-01
+Slave112: efficient MPI parallisation; wait_time/slice_time=    0.42888850E-05
+Slave 42: efficient MPI parallisation; wait_time/slice_time=    0.86745610E-02
+Slave136: efficient MPI parallisation; wait_time/slice_time=    0.26423556E-02
+Slave 91: efficient MPI parallisation; wait_time/slice_time=    0.38219690E-05
+Slave 72: efficient MPI parallisation; wait_time/slice_time=    0.42294718E-05
+Slave132: efficient MPI parallisation; wait_time/slice_time=    0.44803736E-05
+Slave 82: efficient MPI parallisation; wait_time/slice_time=    0.45001833E-05
+Slave 66: efficient MPI parallisation; wait_time/slice_time=    0.13465939E-02
+Slave120: efficient MPI parallisation; wait_time/slice_time=    0.84844147E-02
+Slave113: efficient MPI parallisation; wait_time/slice_time=    0.45170655E-02
+Slave 78: efficient MPI parallisation; wait_time/slice_time=    0.37540465E-05
+Slave 99: efficient MPI parallisation; wait_time/slice_time=    0.27148746E-02
+Slave 53: efficient MPI parallisation; wait_time/slice_time=    0.23692426E-02
+Slave109: efficient MPI parallisation; wait_time/slice_time=    0.30710746E-02
+Slave 54: efficient MPI parallisation; wait_time/slice_time=    0.12203566E-01
+Slave119: efficient MPI parallisation; wait_time/slice_time=    0.10162567E-01
+Slave 56: efficient MPI parallisation; wait_time/slice_time=    0.36840508E-05
+Slave173: efficient MPI parallisation; wait_time/slice_time=    0.18190595E-02
+Slave140: efficient MPI parallisation; wait_time/slice_time=    0.78204185E-02
+Slave 83: efficient MPI parallisation; wait_time/slice_time=    0.38248479E-05
+Slave176: efficient MPI parallisation; wait_time/slice_time=    0.13435847E-01
+Slave131: efficient MPI parallisation; wait_time/slice_time=    0.40732178E-05
+Slave116: efficient MPI parallisation; wait_time/slice_time=    0.49015837E-02
+Slave180: efficient MPI parallisation; wait_time/slice_time=    0.21150041E-04
+Slave185: efficient MPI parallisation; wait_time/slice_time=    0.34077663E-03
+Slave198: efficient MPI parallisation; wait_time/slice_time=    0.45454742E-05
+Slave187: efficient MPI parallisation; wait_time/slice_time=    0.10889216E-01
+Slave 76: efficient MPI parallisation; wait_time/slice_time=    0.44658196E-05
+Slave 40: efficient MPI parallisation; wait_time/slice_time=    0.41587644E-05
+Slave  1: efficient MPI parallisation; wait_time/slice_time=    0.24592159E-05
+Slave 18: efficient MPI parallisation; wait_time/slice_time=    0.92480416E-02
+Slave 22: efficient MPI parallisation; wait_time/slice_time=    0.71200460E-02
+Slave 24: efficient MPI parallisation; wait_time/slice_time=    0.13987013E-02
+Slave 25: efficient MPI parallisation; wait_time/slice_time=    0.28406608E-05
+Slave 26: efficient MPI parallisation; wait_time/slice_time=    0.28506503E-05
+Slave 27: efficient MPI parallisation; wait_time/slice_time=    0.50732390E-02
+Slave 30: efficient MPI parallisation; wait_time/slice_time=    0.36697245E-02
+Slave 32: efficient MPI parallisation; wait_time/slice_time=    0.47573728E-03
+Slave 33: efficient MPI parallisation; wait_time/slice_time=    0.22382214E-01
+Slave 37: efficient MPI parallisation; wait_time/slice_time=    0.34363113E-02
+Slave  4: efficient MPI parallisation; wait_time/slice_time=    0.23934576E-05
+Slave  7: efficient MPI parallisation; wait_time/slice_time=    0.98450663E-02
+Slave  8: efficient MPI parallisation; wait_time/slice_time=    0.23353467E-02
+Slave 11: efficient MPI parallisation; wait_time/slice_time=    0.23646009E-05
+Slave 12: efficient MPI parallisation; wait_time/slice_time=    0.22975269E-05
+Slave 16: efficient MPI parallisation; wait_time/slice_time=    0.22407809E-05
+Slave194: efficient MPI parallisation; wait_time/slice_time=    0.40669674E-05
+Slave 60: efficient MPI parallisation; wait_time/slice_time=    0.13335845E-01
+Slave150: efficient MPI parallisation; wait_time/slice_time=    0.57771608E-02
+Slave  6: efficient MPI parallisation; wait_time/slice_time=    0.24542275E-05
+Slave124: efficient MPI parallisation; wait_time/slice_time=    0.10394534E-01
+Slave 88: efficient MPI parallisation; wait_time/slice_time=    0.37857994E-05
+Slave110: efficient MPI parallisation; wait_time/slice_time=    0.40165356E-02
+Slave195: efficient MPI parallisation; wait_time/slice_time=    0.11516959E-01
+Slave199: efficient MPI parallisation; wait_time/slice_time=    0.40406921E-05
+Slave144: efficient MPI parallisation; wait_time/slice_time=    0.91753244E-02
+Slave 80: efficient MPI parallisation; wait_time/slice_time=    0.80747267E-02
+Slave 21: efficient MPI parallisation; wait_time/slice_time=    0.28383678E-05
+Slave 36: efficient MPI parallisation; wait_time/slice_time=    0.20709939E-01
+Slave 73: efficient MPI parallisation; wait_time/slice_time=    0.30954757E-02
+Slave 19: efficient MPI parallisation; wait_time/slice_time=    0.13604953E-01
+Slave154: efficient MPI parallisation; wait_time/slice_time=    0.10379882E-01
+Slave151: efficient MPI parallisation; wait_time/slice_time=    0.54095840E-02
+Slave146: efficient MPI parallisation; wait_time/slice_time=    0.27056297E-04
+Slave190: efficient MPI parallisation; wait_time/slice_time=    0.41021407E-05
+Slave 49: efficient MPI parallisation; wait_time/slice_time=    0.20665489E-01
+Slave 70: efficient MPI parallisation; wait_time/slice_time=    0.23834915E-03
+Slave 75: efficient MPI parallisation; wait_time/slice_time=    0.10723085E-01
+Slave 77: efficient MPI parallisation; wait_time/slice_time=    0.56548956E-02
+Slave 13: efficient MPI parallisation; wait_time/slice_time=    0.31608069E-01
+Slave 94: efficient MPI parallisation; wait_time/slice_time=    0.21579822E-02
+Slave158: efficient MPI parallisation; wait_time/slice_time=    0.28095558E-02
+Slave  5: efficient MPI parallisation; wait_time/slice_time=    0.63836243E-03
+Slave159: efficient MPI parallisation; wait_time/slice_time=    0.11086907E-01
+Slave104: efficient MPI parallisation; wait_time/slice_time=    0.69343849E-02
+Slave 17: efficient MPI parallisation; wait_time/slice_time=    0.12138205E-01
+Slave 65: efficient MPI parallisation; wait_time/slice_time=    0.18841065E-01
+Slave 95: efficient MPI parallisation; wait_time/slice_time=    0.98866708E-02
+Slave106: efficient MPI parallisation; wait_time/slice_time=    0.18275753E-01
+Slave 96: efficient MPI parallisation; wait_time/slice_time=    0.10637872E-01
+Slave 67: efficient MPI parallisation; wait_time/slice_time=    0.10319917E-02
+Slave 51: efficient MPI parallisation; wait_time/slice_time=    0.49154132E-02
+Slave193: efficient MPI parallisation; wait_time/slice_time=    0.12546929E-01
+Slave 28: efficient MPI parallisation; wait_time/slice_time=    0.27912568E-05
+Slave166: efficient MPI parallisation; wait_time/slice_time=    0.41319519E-05
+Slave128: efficient MPI parallisation; wait_time/slice_time=    0.74324261E-02
+Slave192: efficient MPI parallisation; wait_time/slice_time=    0.67287185E-02
+Slave 58: efficient MPI parallisation; wait_time/slice_time=    0.19995580E-01
+Slave153: efficient MPI parallisation; wait_time/slice_time=    0.42140180E-05
+Slave117: efficient MPI parallisation; wait_time/slice_time=    0.32460547E-02
+Slave174: efficient MPI parallisation; wait_time/slice_time=    0.10788000E-01
+Slave 39: efficient MPI parallisation; wait_time/slice_time=    0.25749414E-05
+Slave183: efficient MPI parallisation; wait_time/slice_time=    0.40640831E-05
+Slave 59: efficient MPI parallisation; wait_time/slice_time=    0.59508499E-02
+Slave 68: efficient MPI parallisation; wait_time/slice_time=    0.14078587E-01
+Slave 93: efficient MPI parallisation; wait_time/slice_time=    0.42405723E-05
+Slave 20: efficient MPI parallisation; wait_time/slice_time=    0.85448276E-02
+Slave165: efficient MPI parallisation; wait_time/slice_time=    0.33715281E-02
+Slave 92: efficient MPI parallisation; wait_time/slice_time=    0.40296961E-05
+Slave 79: efficient MPI parallisation; wait_time/slice_time=    0.39424774E-05
+Slave188: efficient MPI parallisation; wait_time/slice_time=    0.43353375E-05
+Slave167: efficient MPI parallisation; wait_time/slice_time=    0.16639389E-01
+Slave169: efficient MPI parallisation; wait_time/slice_time=    0.20787903E-01
+Slave101: efficient MPI parallisation; wait_time/slice_time=    0.15346451E-03
+Slave149: efficient MPI parallisation; wait_time/slice_time=    0.15382393E-02
+Slave123: efficient MPI parallisation; wait_time/slice_time=    0.12269882E-01
+Slave 97: efficient MPI parallisation; wait_time/slice_time=    0.39253173E-05
+Slave135: efficient MPI parallisation; wait_time/slice_time=    0.41247904E-05
+Slave181: efficient MPI parallisation; wait_time/slice_time=    0.11649906E-01
+Slave 61: efficient MPI parallisation; wait_time/slice_time=    0.67585395E-02
+Slave143: efficient MPI parallisation; wait_time/slice_time=    0.22671479E-01
+Slave 35: efficient MPI parallisation; wait_time/slice_time=    0.30972489E-01
+Slave102: efficient MPI parallisation; wait_time/slice_time=    0.40979376E-05
+Slave 86: efficient MPI parallisation; wait_time/slice_time=    0.41579156E-05
+Slave191: efficient MPI parallisation; wait_time/slice_time=    0.10080681E-01
+Slave 31: efficient MPI parallisation; wait_time/slice_time=    0.84745099E-02
+Slave118: efficient MPI parallisation; wait_time/slice_time=    0.44251423E-05
+Slave 29: efficient MPI parallisation; wait_time/slice_time=    0.35623779E-02
+Slave170: efficient MPI parallisation; wait_time/slice_time=    0.33780002E-02
+Slave 81: efficient MPI parallisation; wait_time/slice_time=    0.12752053E-01
+Slave 43: efficient MPI parallisation; wait_time/slice_time=    0.44922121E-05
+Slave 34: efficient MPI parallisation; wait_time/slice_time=    0.13913356E-01
+Slave107: efficient MPI parallisation; wait_time/slice_time=    0.75461990E-02
+Slave160: efficient MPI parallisation; wait_time/slice_time=    0.15934456E-02
+Slave 87: efficient MPI parallisation; wait_time/slice_time=    0.88017838E-02
+Slave 14: efficient MPI parallisation; wait_time/slice_time=    0.18815945E-01
+Slave161: efficient MPI parallisation; wait_time/slice_time=    0.11423296E-02
+Slave  2: efficient MPI parallisation; wait_time/slice_time=    0.62561964E-02
+Slave138: efficient MPI parallisation; wait_time/slice_time=    0.51788164E-02
+Slave100: efficient MPI parallisation; wait_time/slice_time=    0.48057450E-05
+Slave 44: efficient MPI parallisation; wait_time/slice_time=    0.11016841E-01
+Slave 15: efficient MPI parallisation; wait_time/slice_time=    0.66754927E-02
+Slave148: efficient MPI parallisation; wait_time/slice_time=    0.42190860E-05
+Slave147: efficient MPI parallisation; wait_time/slice_time=    0.41949816E-05
+Slave156: efficient MPI parallisation; wait_time/slice_time=    0.15553356E-01
+Slave 38: efficient MPI parallisation; wait_time/slice_time=    0.25633217E-05
+Slave 90: efficient MPI parallisation; wait_time/slice_time=    0.37957156E-05
+Slave126: efficient MPI parallisation; wait_time/slice_time=    0.40670850E-05
+Slave 63: efficient MPI parallisation; wait_time/slice_time=    0.41023073E-05
+Slave111: efficient MPI parallisation; wait_time/slice_time=    0.42759125E-05
+Slave 69: efficient MPI parallisation; wait_time/slice_time=    0.12985572E-01
+Slave  9: efficient MPI parallisation; wait_time/slice_time=    0.23581741E-05
+Slave  3: efficient MPI parallisation; wait_time/slice_time=    0.22204800E-03
+Slave 10: efficient MPI parallisation; wait_time/slice_time=    0.19720913E-01
+Slave 41: efficient MPI parallisation; wait_time/slice_time=    0.16145127E-01
+Slave 74: efficient MPI parallisation; wait_time/slice_time=    0.82011994E-02
+Slave125: efficient MPI parallisation; wait_time/slice_time=    0.55225208E-02
+Slave 23: efficient MPI parallisation; wait_time/slice_time=    0.10730436E-01
+Slave 57: efficient MPI parallisation; wait_time/slice_time=    0.86735412E-02
+Slave177: efficient MPI parallisation; wait_time/slice_time=    0.41083842E-05
+Slave129: efficient MPI parallisation; wait_time/slice_time=    0.81160714E-02
+Slave103: efficient MPI parallisation; wait_time/slice_time=    0.39240339E-05
+Slave105: efficient MPI parallisation; wait_time/slice_time=    0.73524344E-02
+Slave145: efficient MPI parallisation; wait_time/slice_time=    0.18262828E-01
+Slave114: efficient MPI parallisation; wait_time/slice_time=    0.41168579E-05
+Slave137: efficient MPI parallisation; wait_time/slice_time=    0.12572169E-01
+Slave164: efficient MPI parallisation; wait_time/slice_time=    0.18822201E-02
+Slave142: efficient MPI parallisation; wait_time/slice_time=    0.14499786E-02
+Slave189: efficient MPI parallisation; wait_time/slice_time=    0.45658024E-02
+Slave 48: efficient MPI parallisation; wait_time/slice_time=    0.26397198E-01
+Slave 47: efficient MPI parallisation; wait_time/slice_time=    0.20219053E-01
+Slave139: efficient MPI parallisation; wait_time/slice_time=    0.27569104E-01
+Slave172: efficient MPI parallisation; wait_time/slice_time=    0.29878591E-02
+Slave175: efficient MPI parallisation; wait_time/slice_time=    0.16416527E-02
+Slave 84: efficient MPI parallisation; wait_time/slice_time=    0.23370138E-02
+Slave163: efficient MPI parallisation; wait_time/slice_time=    0.14539664E-02
+Slave 64: efficient MPI parallisation; wait_time/slice_time=    0.91227162E-02
+Slave133: efficient MPI parallisation; wait_time/slice_time=    0.36590323E-02
+Slave134: efficient MPI parallisation; wait_time/slice_time=    0.10445970E-01
+Slave178: efficient MPI parallisation; wait_time/slice_time=    0.50165271E-02
+Slave 62: efficient MPI parallisation; wait_time/slice_time=    0.40970926E-05
+Slave162: efficient MPI parallisation; wait_time/slice_time=    0.84894033E-02
+Slave152: efficient MPI parallisation; wait_time/slice_time=    0.18977255E-01
+Slave157: efficient MPI parallisation; wait_time/slice_time=    0.98236465E-02
+Slave168: efficient MPI parallisation; wait_time/slice_time=    0.10782295E-01
+Slave197: efficient MPI parallisation; wait_time/slice_time=    0.12058299E-01
+Slave122: efficient MPI parallisation; wait_time/slice_time=    0.45862562E-02
+Slave127: efficient MPI parallisation; wait_time/slice_time=    0.54429376E-02
+Slave 71: efficient MPI parallisation; wait_time/slice_time=    0.83386234E-02
+Slave171: efficient MPI parallisation; wait_time/slice_time=    0.37487833E-01
+Slave 98: efficient MPI parallisation; wait_time/slice_time=    0.52074310E-02
+Slave115: efficient MPI parallisation; wait_time/slice_time=    0.14710319E-01
+Slave196: efficient MPI parallisation; wait_time/slice_time=    0.82094910E-02
+Slave155: efficient MPI parallisation; wait_time/slice_time=    0.69021442E-02
+Slave 50: efficient MPI parallisation; wait_time/slice_time=    0.22022638E-01
+Slave 89: efficient MPI parallisation; wait_time/slice_time=    0.10218871E-01
+Slave184: efficient MPI parallisation; wait_time/slice_time=    0.10482967E-01
+Slave182: efficient MPI parallisation; wait_time/slice_time=    0.79111730E-03
+Slave186: efficient MPI parallisation; wait_time/slice_time=    0.78378615E-02
+ PolyChord has finished
+Total time:  2279  (   0.63313 hours  )
