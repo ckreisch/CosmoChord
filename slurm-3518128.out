@@ -1,0 +1,655 @@
+/usr/share/Modules/init/sh: line 2: unalias: conda: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_reactivate: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_activate: not found
+ Number of MPI processes:         200
+ file_root:test_planckhsclite_cosmochord
+ Random seeds: 13080,  7025 rand_inst:   1
+ Random seeds: 25380,  7025 rand_inst: 124
+ Random seeds: 21280,  7025 rand_inst:  83
+ Random seeds: 19084,  7026 rand_inst:  61
+ Random seeds:    56,  7026 rand_inst: 184
+ Random seeds: 13380,  7025 rand_inst:   4
+ Random seeds: 25480,  7025 rand_inst: 125
+ Random seeds: 21480,  7025 rand_inst:  85
+ Random seeds: 13480,  7025 rand_inst:   5
+ Random seeds: 25579,  7025 rand_inst: 126
+ Random seeds: 21680,  7025 rand_inst:  87
+ Random seeds: 13580,  7025 rand_inst:   6
+ Random seeds: 26380,  7025 rand_inst: 134
+ Random seeds: 22280,  7025 rand_inst:  93
+ Random seeds: 13680,  7025 rand_inst:   7
+ Random seeds: 26480,  7025 rand_inst: 135
+ Random seeds: 22980,  7025 rand_inst: 100
+ Random seeds: 13780,  7025 rand_inst:   8
+ Random seeds: 26580,  7025 rand_inst: 136
+ Random seeds: 21180,  7025 rand_inst:  82
+ Random seeds: 13880,  7025 rand_inst:   9
+ Random seeds: 25081,  7025 rand_inst: 121
+ Random seeds: 21581,  7025 rand_inst:  86
+ Random seeds: 13980,  7025 rand_inst:  10
+ Random seeds: 25281,  7025 rand_inst: 123
+ Random seeds: 21980,  7025 rand_inst:  90
+ Random seeds: 14080,  7025 rand_inst:  11
+ Random seeds: 25681,  7025 rand_inst: 127
+ Random seeds: 22080,  7025 rand_inst:  91
+ Random seeds: 14180,  7025 rand_inst:  12
+ Random seeds: 25781,  7025 rand_inst: 128
+ Random seeds: 22380,  7025 rand_inst:  94
+ Random seeds: 14280,  7025 rand_inst:  13
+ Random seeds: 25981,  7025 rand_inst: 130
+ Random seeds: 21082,  7025 rand_inst:  81
+ Random seeds: 14380,  7025 rand_inst:  14
+ Random seeds: 26281,  7025 rand_inst: 133
+ Random seeds: 24982,  7025 rand_inst: 120
+ Random seeds: 14480,  7025 rand_inst:  15
+ Random seeds: 26681,  7025 rand_inst: 137
+ Random seeds: 23882,  7025 rand_inst: 109
+ Random seeds: 14680,  7025 rand_inst:  17
+ Random seeds: 26981,  7025 rand_inst: 140
+ Random seeds: 24282,  7025 rand_inst: 113
+ Random seeds: 14780,  7025 rand_inst:  18
+ Random seeds: 27181,  7025 rand_inst: 142
+ Random seeds: 23483,  7025 rand_inst: 105
+ Random seeds: 14980,  7025 rand_inst:  20
+ Random seeds: 27280,  7025 rand_inst: 143
+ Random seeds: 23582,  7025 rand_inst: 106
+ Random seeds:   456,  7026 rand_inst: 188
+ Random seeds: 13180,  7025 rand_inst:   2
+ Random seeds: 27381,  7025 rand_inst: 144
+ Random seeds: 23982,  7025 rand_inst: 110
+ Random seeds:   656,  7026 rand_inst: 190
+ Random seeds: 14580,  7025 rand_inst:  16
+ Random seeds: 27580,  7025 rand_inst: 146
+ Random seeds: 24083,  7025 rand_inst: 111
+ Random seeds:   756,  7026 rand_inst: 191
+ Doing non-linear Pk: F
+ Doing CMB lensing: T
+ Doing non-linear lensing: T
+ TT lmax =  2500
+ EE lmax =  2500
+ ET lmax =  2500
+ BB lmax =  2500
+ PP lmax =  2500
+ lmax_computed_cl  =  2500
+ Computing tensors: F
+ Random seeds: 27681,  7025 rand_inst: 147
+ Random seeds: 24582,  7025 rand_inst: 116
+ Random seeds:   855,  7025 rand_inst: 192
+ max_eta_k         =    14000.00    
+ transfer kmax     =    1.000000    
+ Random seeds: 27782,  7025 rand_inst: 148
+ Random seeds: 24683,  7025 rand_inst: 117
+ Random seeds:  1156,  7026 rand_inst: 195
+ Random seeds: 14883,  7025 rand_inst:  19
+ Random seeds: 27882,  7025 rand_inst: 149
+ Random seeds: 24882,  7025 rand_inst: 119
+ Random seeds: 19184,  7026 rand_inst:  62
+ Random seeds: 31084,  7026 rand_inst: 181
+ Random seeds: 15486,  7026 rand_inst:  25
+ Random seeds: 27981,  7025 rand_inst: 150
+ Random seeds: 21383,  7025 rand_inst:  84
+ Random seeds: 19885,  7026 rand_inst:  69
+ Random seeds: 31185,  7026 rand_inst: 182
+ Random seeds: 15686,  7026 rand_inst:  27
+ Random seeds: 28180,  7025 rand_inst: 152
+ Random seeds: 21783,  7025 rand_inst:  88
+ Random seeds: 19984,  7026 rand_inst:  70
+ Random seeds:  1257,  7026 rand_inst: 196
+ Random seeds: 16286,  7026 rand_inst:  33
+ Random seeds: 28281,  7025 rand_inst: 153
+ Random seeds: 21883,  7025 rand_inst:  89
+ Random seeds: 20084,  7026 rand_inst:  71
+ Random seeds:  1356,  7026 rand_inst: 197
+ Random seeds: 16586,  7026 rand_inst:  36
+ Random seeds: 28381,  7025 rand_inst: 154
+ Random seeds: 22783,  7025 rand_inst:  98
+ Random seeds: 20284,  7026 rand_inst:  73
+ Random seeds:  1556,  7026 rand_inst: 199
+ Random seeds: 15087,  7026 rand_inst:  21
+ Random seeds: 28481,  7025 rand_inst: 155
+ Random seeds: 22883,  7025 rand_inst:  99
+ Random seeds: 20384,  7026 rand_inst:  74
+ Random seeds:   258,  7026 rand_inst: 186
+ Random seeds: 15187,  7026 rand_inst:  22
+ Random seeds: 28581,  7025 rand_inst: 156
+ Random seeds: 23083,  7025 rand_inst: 101
+ Random seeds: 20684,  7026 rand_inst:  77
+ Random seeds:   958,  7026 rand_inst: 193
+ Random seeds: 15287,  7026 rand_inst:  23
+ Random seeds: 28681,  7025 rand_inst: 157
+ Random seeds: 23283,  7025 rand_inst: 103
+ Random seeds: 20784,  7026 rand_inst:  78
+ Random seeds:  1658,  7026 rand_inst: 200
+ Random seeds: 15387,  7026 rand_inst:  24
+ Random seeds: 28781,  7025 rand_inst: 158
+ Random seeds: 23383,  7025 rand_inst: 104
+ Random seeds: 20884,  7026 rand_inst:  79
+ Random seeds: 31286,  7026 rand_inst: 183
+ Random seeds: 15587,  7026 rand_inst:  26
+ Random seeds: 28882,  7025 rand_inst: 159
+ Random seeds: 23683,  7025 rand_inst: 107
+ Random seeds: 20984,  7026 rand_inst:  80
+ Random seeds:  1458,  7026 rand_inst: 198
+ Random seeds: 15887,  7026 rand_inst:  29
+ Random seeds: 19385,  7026 rand_inst:  64
+ Random seeds: 29087,  7026 rand_inst: 161
+ Random seeds: 15987,  7026 rand_inst:  30
+ Random seeds: 19485,  7026 rand_inst:  65
+ Random seeds: 30487,  7026 rand_inst: 175
+ Random seeds: 16087,  7026 rand_inst:  31
+ Random seeds: 19585,  7026 rand_inst:  66
+ Random seeds: 30687,  7026 rand_inst: 177
+ Random seeds: 16187,  7026 rand_inst:  32
+ Random seeds: 19685,  7026 rand_inst:  67
+ Random seeds:   159,  7026 rand_inst: 185
+ Random seeds: 16487,  7026 rand_inst:  35
+ Random seeds: 19785,  7026 rand_inst:  68
+ Random seeds:   359,  7026 rand_inst: 187
+ Random seeds: 16687,  7026 rand_inst:  37
+ Random seeds: 20185,  7026 rand_inst:  72
+ Random seeds:   559,  7026 rand_inst: 189
+ Random seeds: 16787,  7026 rand_inst:  38
+ Random seeds: 20485,  7026 rand_inst:  75
+ Random seeds: 29288,  7026 rand_inst: 163
+ Random seeds: 15788,  7026 rand_inst:  28
+ Random seeds: 20585,  7026 rand_inst:  76
+ Random seeds: 29988,  7026 rand_inst: 170
+ Random seeds: 16388,  7026 rand_inst:  34
+ Random seeds: 17087,  7026 rand_inst:  41
+ Random seeds: 30588,  7026 rand_inst: 176
+ Random seeds: 16888,  7026 rand_inst:  39
+ Random seeds: 17287,  7026 rand_inst:  43
+ Random seeds: 30788,  7026 rand_inst: 178
+ Random seeds: 16988,  7026 rand_inst:  40
+ Random seeds: 17387,  7026 rand_inst:  44
+ Random seeds: 29388,  7026 rand_inst: 164
+ Random seeds: 13280,  7025 rand_inst:   3
+ Random seeds: 17485,  7026 rand_inst:  45
+ Random seeds: 29588,  7026 rand_inst: 166
+ Random seeds: 17687,  7026 rand_inst:  47
+ Random seeds: 29688,  7026 rand_inst: 167
+ Random seeds: 17785,  7026 rand_inst:  48
+ Random seeds: 29788,  7026 rand_inst: 168
+ Random seeds: 17886,  7026 rand_inst:  49
+ Random seeds: 17986,  7026 rand_inst:  50
+ Random seeds: 18087,  7026 rand_inst:  51
+ Random seeds: 18187,  7026 rand_inst:  52
+ Random seeds: 18285,  7026 rand_inst:  53
+ Random seeds: 25182,  7025 rand_inst: 122
+ Random seeds: 23784,  7026 rand_inst: 108
+ Random seeds: 25882,  7025 rand_inst: 129
+ Random seeds: 24183,  7025 rand_inst: 112
+ Random seeds: 26082,  7025 rand_inst: 131
+ Random seeds: 24783,  7025 rand_inst: 118
+ Random seeds: 26182,  7025 rand_inst: 132
+ Random seeds: 22184,  7026 rand_inst:  92
+ Random seeds: 26882,  7025 rand_inst: 139
+ Random seeds: 22584,  7026 rand_inst:  96
+ Random seeds: 27082,  7025 rand_inst: 141
+ Random seeds: 22684,  7026 rand_inst:  97
+ Random seeds: 27482,  7025 rand_inst: 145
+ Random seeds: 23184,  7026 rand_inst: 102
+ Random seeds: 28082,  7025 rand_inst: 151
+ Random seeds: 24384,  7026 rand_inst: 114
+ Random seeds: 28982,  7025 rand_inst: 160
+ Random seeds: 24484,  7026 rand_inst: 115
+ Random seeds: 26781,  7025 rand_inst: 138
+ Random seeds: 22480,  7025 rand_inst:  95
+ Random seeds: 18386,  7026 rand_inst:  54
+ Random seeds: 29888,  7026 rand_inst: 169
+ Random seeds: 18487,  7026 rand_inst:  55
+ Random seeds: 30388,  7026 rand_inst: 174
+ Random seeds: 18586,  7026 rand_inst:  56
+ Random seeds: 30988,  7026 rand_inst: 180
+ Random seeds: 18687,  7026 rand_inst:  57
+ Random seeds: 29188,  7026 rand_inst: 162
+ Random seeds: 18786,  7026 rand_inst:  58
+ Random seeds: 29488,  7026 rand_inst: 165
+ Random seeds: 18886,  7026 rand_inst:  59
+ Random seeds: 30088,  7026 rand_inst: 171
+ Random seeds: 18985,  7026 rand_inst:  60
+ Random seeds: 30188,  7026 rand_inst: 172
+ Random seeds: 17187,  7026 rand_inst:  42
+ Random seeds: 30289,  7026 rand_inst: 173
+ Random seeds: 17587,  7026 rand_inst:  46
+ Random seeds: 30888,  7026 rand_inst: 179
+ Random seeds: 19285,  7026 rand_inst:  63
+ Random seeds:  1056,  7026 rand_inst: 194
+ Fast divided into            1  blocks
+  6 parameters ( 6 slow ( 0 semi-slow),  0 fast ( 0 semi-fast))
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ skipped unused params: calPlanck acib217 xi asz143 aps100 aps143 aps143217 aps217 aksz kgal100 kgal143 kgal143217 kgal217 cal0 cal2
+ starting nested sampling
+
+PolyChord: Next Generation Nested Sampling
+copyright: Will Handley, Mike Hobson & Anthony Lasenby
+  version: 1.16
+  release: 1st March 2019
+    email: wh260@mrao.cam.ac.uk
+
+Run Settings
+nlive    :     500
+nDims    :       6
+nDerived :      58
+Doing Clustering
+Generating equally weighted posteriors
+Generating weighted posteriors
+Clustering on posteriors
+Writing a resume file tochains//test_planckhsclite_cosmochord.resume
+Sub clustering on    0 dimensions
+ 
+
+generating live points
+
+
+all live points generated
+
+Speed  1 =  0.601E+01 seconds
+number of repeats:            8
+started sampling
+
+ ____________________________________________________ 
+|                                                    |
+| ndead  =          500                              |
+| log(Z) =           -0.00200 +/-            0.00200 |
+|____________________________________________________|
+Warning, unable to proceed after    501: failed spawn events
+Slave 57: efficient MPI parallisation; wait_time/slice_time=    0.12432654E-04
+Slave194: efficient MPI parallisation; wait_time/slice_time=    0.17702519E-04
+Slave 86: efficient MPI parallisation; wait_time/slice_time=    0.96643025E-05
+Slave113: efficient MPI parallisation; wait_time/slice_time=    0.15659620E-04
+Slave124: efficient MPI parallisation; wait_time/slice_time=    0.17298098E-04
+Slave 21: efficient MPI parallisation; wait_time/slice_time=    0.36525908E-05
+Slave145: efficient MPI parallisation; wait_time/slice_time=    0.10506250E-04
+Slave198: efficient MPI parallisation; wait_time/slice_time=    0.18267853E-04
+Slave178: efficient MPI parallisation; wait_time/slice_time=    0.14672248E-04
+Slave 52: efficient MPI parallisation; wait_time/slice_time=    0.11872677E-04
+Slave 17: efficient MPI parallisation; wait_time/slice_time=    0.26263837E-05
+Slave177: efficient MPI parallisation; wait_time/slice_time=    0.13857151E-04
+Slave  3: efficient MPI parallisation; wait_time/slice_time=    0.69134732E-05
+Slave195: efficient MPI parallisation; wait_time/slice_time=    0.17955187E-04
+Slave 79: efficient MPI parallisation; wait_time/slice_time=    0.86157275E-05
+Slave 85: efficient MPI parallisation; wait_time/slice_time=    0.92504517E-05
+Slave 50: efficient MPI parallisation; wait_time/slice_time=    0.10827223E-04
+Slave 69: efficient MPI parallisation; wait_time/slice_time=    0.53295965E-05
+Slave108: efficient MPI parallisation; wait_time/slice_time=    0.13980454E-04
+Slave 95: efficient MPI parallisation; wait_time/slice_time=    0.11230600E-04
+Slave143: efficient MPI parallisation; wait_time/slice_time=    0.90877275E-05
+Slave167: efficient MPI parallisation; wait_time/slice_time=    0.13329804E-04
+Slave  7: efficient MPI parallisation; wait_time/slice_time=    0.12259045E-05
+Slave 84: efficient MPI parallisation; wait_time/slice_time=    0.94316139E-05
+Slave149: efficient MPI parallisation; wait_time/slice_time=    0.96797916E-05
+Slave 65: efficient MPI parallisation; wait_time/slice_time=    0.50791380E-05
+Slave 71: efficient MPI parallisation; wait_time/slice_time=    0.62837500E-05
+Slave190: efficient MPI parallisation; wait_time/slice_time=    0.16477631E-04
+Slave 88: efficient MPI parallisation; wait_time/slice_time=    0.10182954E-04
+Slave154: efficient MPI parallisation; wait_time/slice_time=    0.11871097E-04
+Slave159: efficient MPI parallisation; wait_time/slice_time=    0.12260441E-04
+Slave 91: efficient MPI parallisation; wait_time/slice_time=    0.10980330E-04
+Slave120: efficient MPI parallisation; wait_time/slice_time=    0.16240352E-04
+Slave 10: efficient MPI parallisation; wait_time/slice_time=    0.16967908E-05
+Slave147: efficient MPI parallisation; wait_time/slice_time=    0.92357670E-05
+Slave123: efficient MPI parallisation; wait_time/slice_time=    0.16167831E-04
+Slave156: efficient MPI parallisation; wait_time/slice_time=    0.11459387E-04
+Slave 62: efficient MPI parallisation; wait_time/slice_time=    0.41186861E-05
+Slave104: efficient MPI parallisation; wait_time/slice_time=    0.12751443E-04
+Slave139: efficient MPI parallisation; wait_time/slice_time=    0.26984149E-04
+Slave136: efficient MPI parallisation; wait_time/slice_time=    0.25948037E-04
+Slave199: efficient MPI parallisation; wait_time/slice_time=    0.17557877E-04
+Slave 64: efficient MPI parallisation; wait_time/slice_time=    0.58162686E-05
+Slave 31: efficient MPI parallisation; wait_time/slice_time=    0.49337985E-05
+Slave130: efficient MPI parallisation; wait_time/slice_time=    0.25174335E-04
+Slave146: efficient MPI parallisation; wait_time/slice_time=    0.97407417E-05
+Slave105: efficient MPI parallisation; wait_time/slice_time=    0.13352752E-04
+Slave184: efficient MPI parallisation; wait_time/slice_time=    0.15754012E-04
+Slave121: efficient MPI parallisation; wait_time/slice_time=    0.16714770E-04
+Slave 40: efficient MPI parallisation; wait_time/slice_time=    0.80523728E-05
+Slave187: efficient MPI parallisation; wait_time/slice_time=    0.14932938E-04
+Slave171: efficient MPI parallisation; wait_time/slice_time=    0.12734157E-04
+Slave191: efficient MPI parallisation; wait_time/slice_time=    0.16359367E-04
+Slave 74: efficient MPI parallisation; wait_time/slice_time=    0.69384876E-05
+Slave155: efficient MPI parallisation; wait_time/slice_time=    0.10726797E-04
+Slave114: efficient MPI parallisation; wait_time/slice_time=    0.15414972E-04
+Slave193: efficient MPI parallisation; wait_time/slice_time=    0.16312574E-04
+Slave112: efficient MPI parallisation; wait_time/slice_time=    0.14299688E-04
+Slave172: efficient MPI parallisation; wait_time/slice_time=    0.13309752E-04
+Slave141: efficient MPI parallisation; wait_time/slice_time=    0.27105482E-04
+Slave 13: efficient MPI parallisation; wait_time/slice_time=    0.19105964E-05
+Slave116: efficient MPI parallisation; wait_time/slice_time=    0.15440990E-04
+Slave 53: efficient MPI parallisation; wait_time/slice_time=    0.10545313E-04
+Slave 94: efficient MPI parallisation; wait_time/slice_time=    0.10824459E-04
+Slave162: efficient MPI parallisation; wait_time/slice_time=    0.12188689E-04
+Slave 59: efficient MPI parallisation; wait_time/slice_time=    0.11545950E-04
+Slave142: efficient MPI parallisation; wait_time/slice_time=    0.26353511E-04
+Slave 48: efficient MPI parallisation; wait_time/slice_time=    0.95432558E-05
+Slave102: efficient MPI parallisation; wait_time/slice_time=    0.11621637E-04
+Slave 92: efficient MPI parallisation; wait_time/slice_time=    0.10376306E-04
+Slave110: efficient MPI parallisation; wait_time/slice_time=    0.13922273E-04
+Slave122: efficient MPI parallisation; wait_time/slice_time=    0.15713211E-04
+Slave152: efficient MPI parallisation; wait_time/slice_time=    0.98853092E-05
+Slave164: efficient MPI parallisation; wait_time/slice_time=    0.11125704E-04
+Slave 43: efficient MPI parallisation; wait_time/slice_time=    0.82795503E-05
+Slave  4: efficient MPI parallisation; wait_time/slice_time=    0.63522913E-05
+Slave140: efficient MPI parallisation; wait_time/slice_time=    0.25670985E-04
+Slave 55: efficient MPI parallisation; wait_time/slice_time=    0.10442984E-04
+Slave 49: efficient MPI parallisation; wait_time/slice_time=    0.85760701E-05
+Slave 60: efficient MPI parallisation; wait_time/slice_time=    0.11550737E-04
+Slave 26: efficient MPI parallisation; wait_time/slice_time=    0.36996533E-05
+Slave 99: efficient MPI parallisation; wait_time/slice_time=    0.10669970E-04
+Slave151: efficient MPI parallisation; wait_time/slice_time=    0.97209364E-05
+Slave176: efficient MPI parallisation; wait_time/slice_time=    0.13106008E-04
+Slave 28: efficient MPI parallisation; wait_time/slice_time=    0.40977309E-05
+Slave119: efficient MPI parallisation; wait_time/slice_time=    0.15072997E-04
+Slave150: efficient MPI parallisation; wait_time/slice_time=    0.93563834E-05
+Slave 42: efficient MPI parallisation; wait_time/slice_time=    0.81256163E-05
+Slave181: efficient MPI parallisation; wait_time/slice_time=    0.13318642E-04
+Slave127: efficient MPI parallisation; wait_time/slice_time=    0.15420600E-04
+Slave180: efficient MPI parallisation; wait_time/slice_time=    0.13061367E-04
+Slave 37: efficient MPI parallisation; wait_time/slice_time=    0.58991762E-05
+Slave 70: efficient MPI parallisation; wait_time/slice_time=    0.49885318E-05
+Slave196: efficient MPI parallisation; wait_time/slice_time=    0.19423126E-04
+Slave100: efficient MPI parallisation; wait_time/slice_time=    0.14980420E-04
+Slave157: efficient MPI parallisation; wait_time/slice_time=    0.10335185E-04
+Slave 38: efficient MPI parallisation; wait_time/slice_time=    0.49585288E-05
+Slave 58: efficient MPI parallisation; wait_time/slice_time=    0.13770964E-04
+Slave 82: efficient MPI parallisation; wait_time/slice_time=    0.72391051E-05
+Slave153: efficient MPI parallisation; wait_time/slice_time=    0.94201308E-05
+Slave 51: efficient MPI parallisation; wait_time/slice_time=    0.12096793E-04
+Slave 16: efficient MPI parallisation; wait_time/slice_time=    0.26109778E-05
+Slave 35: efficient MPI parallisation; wait_time/slice_time=    0.49895057E-05
+Slave131: efficient MPI parallisation; wait_time/slice_time=    0.23438245E-04
+Slave174: efficient MPI parallisation; wait_time/slice_time=    0.13381073E-04
+Slave 67: efficient MPI parallisation; wait_time/slice_time=    0.64418603E-05
+Slave163: efficient MPI parallisation; wait_time/slice_time=    0.13173097E-04
+Slave111: efficient MPI parallisation; wait_time/slice_time=    0.13737096E-04
+Slave 63: efficient MPI parallisation; wait_time/slice_time=    0.62208861E-05
+Slave 30: efficient MPI parallisation; wait_time/slice_time=    0.42178094E-05
+Slave134: efficient MPI parallisation; wait_time/slice_time=    0.22526418E-04
+Slave 75: efficient MPI parallisation; wait_time/slice_time=    0.92188743E-05
+Slave 76: efficient MPI parallisation; wait_time/slice_time=    0.76958843E-05
+Slave 24: efficient MPI parallisation; wait_time/slice_time=    0.37014485E-05
+Slave 15: efficient MPI parallisation; wait_time/slice_time=    0.23742689E-05
+Slave 34: efficient MPI parallisation; wait_time/slice_time=    0.47985612E-05
+Slave185: efficient MPI parallisation; wait_time/slice_time=    0.14030972E-04
+Slave135: efficient MPI parallisation; wait_time/slice_time=    0.22830853E-04
+Slave 19: efficient MPI parallisation; wait_time/slice_time=    0.27994965E-05
+Slave 11: efficient MPI parallisation; wait_time/slice_time=    0.19745166E-05
+Slave 83: efficient MPI parallisation; wait_time/slice_time=    0.89899781E-05
+Slave 23: efficient MPI parallisation; wait_time/slice_time=    0.32331768E-05
+Slave 72: efficient MPI parallisation; wait_time/slice_time=    0.86087596E-05
+Slave 36: efficient MPI parallisation; wait_time/slice_time=    0.49737996E-05
+Slave 93: efficient MPI parallisation; wait_time/slice_time=    0.10892139E-04
+Slave137: efficient MPI parallisation; wait_time/slice_time=    0.22771609E-04
+Slave170: efficient MPI parallisation; wait_time/slice_time=    0.13344634E-04
+Slave 44: efficient MPI parallisation; wait_time/slice_time=    0.80907261E-05
+Slave103: efficient MPI parallisation; wait_time/slice_time=    0.12830056E-04
+Slave128: efficient MPI parallisation; wait_time/slice_time=    0.22813235E-04
+Slave 39: efficient MPI parallisation; wait_time/slice_time=    0.51393263E-05
+Slave133: efficient MPI parallisation; wait_time/slice_time=    0.22544203E-04
+Slave 14: efficient MPI parallisation; wait_time/slice_time=    0.21743396E-05
+Slave 32: efficient MPI parallisation; wait_time/slice_time=    0.43256318E-05
+Slave168: efficient MPI parallisation; wait_time/slice_time=    0.12348777E-04
+Slave 90: efficient MPI parallisation; wait_time/slice_time=    0.10086093E-04
+Slave182: efficient MPI parallisation; wait_time/slice_time=    0.13115818E-04
+Slave 45: efficient MPI parallisation; wait_time/slice_time=    0.10402958E-04
+Slave  9: efficient MPI parallisation; wait_time/slice_time=    0.16961063E-05
+Slave132: efficient MPI parallisation; wait_time/slice_time=    0.21313729E-04
+Slave192: efficient MPI parallisation; wait_time/slice_time=    0.14890221E-04
+Slave173: efficient MPI parallisation; wait_time/slice_time=    0.13402812E-04
+Slave 29: efficient MPI parallisation; wait_time/slice_time=    0.40034312E-05
+Slave 54: efficient MPI parallisation; wait_time/slice_time=    0.11189685E-04
+Slave 56: efficient MPI parallisation; wait_time/slice_time=    0.11871638E-04
+Slave179: efficient MPI parallisation; wait_time/slice_time=    0.14000763E-04
+Slave175: efficient MPI parallisation; wait_time/slice_time=    0.12813432E-04
+Slave 27: efficient MPI parallisation; wait_time/slice_time=    0.37715126E-05
+Slave  2: efficient MPI parallisation; wait_time/slice_time=    0.52147909E-05
+Slave 22: efficient MPI parallisation; wait_time/slice_time=    0.32385594E-05
+Slave 96: efficient MPI parallisation; wait_time/slice_time=    0.10947192E-04
+Slave 12: efficient MPI parallisation; wait_time/slice_time=    0.19574795E-05
+Slave183: efficient MPI parallisation; wait_time/slice_time=    0.13440843E-04
+Slave101: efficient MPI parallisation; wait_time/slice_time=    0.11503203E-04
+Slave 20: efficient MPI parallisation; wait_time/slice_time=    0.30198618E-05
+Slave160: efficient MPI parallisation; wait_time/slice_time=    0.11835813E-04
+Slave 87: efficient MPI parallisation; wait_time/slice_time=    0.99883580E-05
+Slave 89: efficient MPI parallisation; wait_time/slice_time=    0.89336992E-05
+Slave125: efficient MPI parallisation; wait_time/slice_time=    0.14364063E-04
+Slave  6: efficient MPI parallisation; wait_time/slice_time=    0.55761199E-05
+Slave 78: efficient MPI parallisation; wait_time/slice_time=    0.75968084E-05
+Slave 25: efficient MPI parallisation; wait_time/slice_time=    0.35211803E-05
+Slave 66: efficient MPI parallisation; wait_time/slice_time=    0.50692791E-05
+Slave158: efficient MPI parallisation; wait_time/slice_time=    0.10589728E-04
+Slave188: efficient MPI parallisation; wait_time/slice_time=    0.13767597E-04
+Slave144: efficient MPI parallisation; wait_time/slice_time=    0.92554962E-05
+Slave 97: efficient MPI parallisation; wait_time/slice_time=    0.10801574E-04
+Slave165: efficient MPI parallisation; wait_time/slice_time=    0.11021060E-04
+Slave189: efficient MPI parallisation; wait_time/slice_time=    0.13451748E-04
+Slave129: efficient MPI parallisation; wait_time/slice_time=    0.15391869E-04
+Slave 98: efficient MPI parallisation; wait_time/slice_time=    0.10786879E-04
+Slave109: efficient MPI parallisation; wait_time/slice_time=    0.11998447E-04
+Slave161: efficient MPI parallisation; wait_time/slice_time=    0.11241401E-04
+Slave 47: efficient MPI parallisation; wait_time/slice_time=    0.97692599E-05
+Slave 68: efficient MPI parallisation; wait_time/slice_time=    0.66831957E-05
+Slave 73: efficient MPI parallisation; wait_time/slice_time=    0.76393056E-05
+Slave107: efficient MPI parallisation; wait_time/slice_time=    0.12408130E-04
+Slave 41: efficient MPI parallisation; wait_time/slice_time=    0.82797171E-05
+Slave197: efficient MPI parallisation; wait_time/slice_time=    0.14242753E-04
+Slave166: efficient MPI parallisation; wait_time/slice_time=    0.10428640E-04
+Slave 61: efficient MPI parallisation; wait_time/slice_time=    0.57276024E-05
+Slave 46: efficient MPI parallisation; wait_time/slice_time=    0.97874918E-05
+Slave  5: efficient MPI parallisation; wait_time/slice_time=    0.53117001E-05
+Slave138: efficient MPI parallisation; wait_time/slice_time=    0.22047395E-04
+Slave106: efficient MPI parallisation; wait_time/slice_time=    0.11100669E-04
+Slave126: efficient MPI parallisation; wait_time/slice_time=    0.13739997E-04
+Slave148: efficient MPI parallisation; wait_time/slice_time=    0.85379123E-05
+Slave118: efficient MPI parallisation; wait_time/slice_time=    0.13169888E-04
+Slave 18: efficient MPI parallisation; wait_time/slice_time=    0.24215775E-05
+Slave117: efficient MPI parallisation; wait_time/slice_time=    0.12523135E-04
+Slave186: efficient MPI parallisation; wait_time/slice_time=    0.12696146E-04
+Slave  1: efficient MPI parallisation; wait_time/slice_time=    0.13243628E-05
+Slave 33: efficient MPI parallisation; wait_time/slice_time=    0.41096658E-05
+Slave 80: efficient MPI parallisation; wait_time/slice_time=    0.79966411E-05
+Slave 77: efficient MPI parallisation; wait_time/slice_time=    0.69377456E-05
+Slave169: efficient MPI parallisation; wait_time/slice_time=    0.11489484E-04
+Slave 81: efficient MPI parallisation; wait_time/slice_time=    0.75231989E-05
+Slave  8: efficient MPI parallisation; wait_time/slice_time=    0.11553273E-05
+Slave115: efficient MPI parallisation; wait_time/slice_time=    0.12222351E-04
+ PolyChord has finished
+Total time:  165  (   0.04587 hours  )

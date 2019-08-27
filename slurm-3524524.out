@@ -1,0 +1,4510 @@
+/usr/share/Modules/init/sh: line 2: unalias: conda: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_reactivate: not found
+/usr/share/Modules/init/sh: line 2: unalias: __conda_activate: not found
+ Number of MPI processes:         200
+ file_root:planckhsc_cosmochord
+ Random seeds: 30113,  8265 rand_inst: 161
+ Random seeds: 14114,  8265 rand_inst:   1
+ Random seeds: 16813,  8265 rand_inst:  28
+ Random seeds: 17413,  8265 rand_inst:  34
+ Using clik with likelihood file 
+ ./data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik
+ Random seeds: 14214,  8265 rand_inst:   2
+ Random seeds: 14314,  8265 rand_inst:   3
+ Random seeds: 14414,  8265 rand_inst:   4
+ Random seeds: 14514,  8265 rand_inst:   5
+ Random seeds: 14613,  8265 rand_inst:   6
+ Random seeds: 14714,  8265 rand_inst:   7
+ Random seeds: 14813,  8265 rand_inst:   8
+ Random seeds: 14913,  8265 rand_inst:   9
+ Random seeds: 15014,  8265 rand_inst:  10
+ Random seeds: 15114,  8265 rand_inst:  11
+ Random seeds: 15214,  8265 rand_inst:  12
+ Random seeds: 26118,  8265 rand_inst: 121
+ Random seeds: 15313,  8265 rand_inst:  13
+ Random seeds: 15413,  8265 rand_inst:  14
+ Random seeds: 15513,  8265 rand_inst:  15
+ Random seeds: 15614,  8265 rand_inst:  16
+ Random seeds: 15714,  8265 rand_inst:  17
+ Random seeds: 15813,  8265 rand_inst:  18
+ Random seeds: 20519,  8265 rand_inst:  65
+ Random seeds: 15914,  8265 rand_inst:  19
+ Random seeds: 16013,  8265 rand_inst:  20
+ Random seeds: 16114,  8265 rand_inst:  21
+ Random seeds: 16214,  8265 rand_inst:  22
+ Random seeds: 30313,  8265 rand_inst: 163
+ Random seeds: 30513,  8265 rand_inst: 165
+ Random seeds: 16314,  8265 rand_inst:  23
+ Random seeds: 30613,  8265 rand_inst: 166
+ Random seeds: 30713,  8265 rand_inst: 167
+ Random seeds: 16414,  8265 rand_inst:  24
+ Random seeds: 30813,  8265 rand_inst: 168
+ Random seeds: 30913,  8265 rand_inst: 169
+ Random seeds: 31013,  8265 rand_inst: 170
+ Random seeds: 16514,  8265 rand_inst:  25
+ Random seeds: 31313,  8265 rand_inst: 173
+ Random seeds:   185,  8265 rand_inst: 175
+ Random seeds:   385,  8265 rand_inst: 177
+ Random seeds: 16614,  8265 rand_inst:  26
+ Random seeds:   585,  8265 rand_inst: 179
+ Random seeds: 30214,  8265 rand_inst: 162
+ Random seeds: 30415,  8265 rand_inst: 164
+ Random seeds: 16714,  8265 rand_inst:  27
+ Random seeds: 31114,  8265 rand_inst: 171
+ Random seeds: 31214,  8265 rand_inst: 172
+ Random seeds:   286,  8265 rand_inst: 176
+ Random seeds:   486,  8265 rand_inst: 178
+ Random seeds: 16914,  8265 rand_inst:  29
+ Random seeds:   686,  8265 rand_inst: 180
+ Random seeds:   790,  8265 rand_inst: 181
+ Random seeds:   890,  8265 rand_inst: 182
+ Random seeds: 17114,  8265 rand_inst:  31
+ Random seeds:   990,  8265 rand_inst: 183
+ Random seeds:  1490,  8265 rand_inst: 188
+ Random seeds:  1590,  8265 rand_inst: 189
+ Random seeds: 17213,  8265 rand_inst:  32
+ Random seeds:  2290,  8265 rand_inst: 196
+ Random seeds:  2390,  8265 rand_inst: 197
+ Random seeds:  1090,  8265 rand_inst: 184
+ Random seeds: 17314,  8265 rand_inst:  33
+ Random seeds:  1190,  8265 rand_inst: 185
+ Random seeds:  1290,  8265 rand_inst: 186
+ Random seeds:  1390,  8265 rand_inst: 187
+ Random seeds: 17514,  8265 rand_inst:  35
+ Random seeds: 17614,  8265 rand_inst:  36
+ Random seeds: 17714,  8265 rand_inst:  37
+ Random seeds: 17814,  8265 rand_inst:  38
+ Random seeds: 17914,  8265 rand_inst:  39
+ Random seeds: 18014,  8265 rand_inst:  40
+ Random seeds: 17013,  8265 rand_inst:  30
+ Random seeds: 26219,  8265 rand_inst: 122
+ Random seeds: 20619,  8265 rand_inst:  66
+ Random seeds: 26318,  8265 rand_inst: 123
+ Random seeds: 20819,  8265 rand_inst:  68
+ Random seeds: 26418,  8265 rand_inst: 124
+ Random seeds: 21019,  8265 rand_inst:  70
+ Random seeds: 26518,  8265 rand_inst: 125
+ Random seeds: 21419,  8265 rand_inst:  74
+ Random seeds: 26618,  8265 rand_inst: 126
+ Random seeds: 21519,  8265 rand_inst:  75
+ Random seeds: 26718,  8265 rand_inst: 127
+ Random seeds: 21719,  8265 rand_inst:  77
+ Random seeds: 26818,  8265 rand_inst: 128
+ Random seeds: 21919,  8265 rand_inst:  79
+ Random seeds: 27118,  8265 rand_inst: 131
+ Random seeds: 22019,  8265 rand_inst:  80
+ Random seeds: 27318,  8265 rand_inst: 133
+ Random seeds: 18119,  8265 rand_inst:  41
+ Random seeds: 22427,  8266 rand_inst:  84
+ Random seeds: 27419,  8265 rand_inst: 134
+ Random seeds: 18219,  8265 rand_inst:  42
+ Random seeds: 27518,  8265 rand_inst: 135
+ Random seeds: 18319,  8265 rand_inst:  43
+ Random seeds: 27719,  8265 rand_inst: 137
+ Random seeds: 18419,  8265 rand_inst:  44
+ Random seeds: 27819,  8265 rand_inst: 138
+ Random seeds: 18620,  8266 rand_inst:  46
+ Random seeds: 27918,  8265 rand_inst: 139
+ Random seeds: 18719,  8265 rand_inst:  47
+ Random seeds: 28018,  8265 rand_inst: 140
+ Random seeds: 18819,  8265 rand_inst:  48
+ Random seeds: 26919,  8265 rand_inst: 129
+ Random seeds: 18919,  8265 rand_inst:  49
+ Random seeds: 27020,  8266 rand_inst: 130
+ Random seeds: 19019,  8265 rand_inst:  50
+ Random seeds: 27220,  8266 rand_inst: 132
+ Random seeds: 19120,  8266 rand_inst:  51
+ Random seeds: 28523,  8266 rand_inst: 145
+ Random seeds: 19219,  8265 rand_inst:  52
+ Random seeds: 28123,  8266 rand_inst: 141
+ Random seeds: 19319,  8265 rand_inst:  53
+ Random seeds: 28323,  8266 rand_inst: 143
+ Random seeds: 19419,  8265 rand_inst:  54
+ Random seeds: 28424,  8266 rand_inst: 144
+ Random seeds: 19519,  8265 rand_inst:  55
+ Random seeds: 28624,  8266 rand_inst: 146
+ Random seeds: 19619,  8265 rand_inst:  56
+ Random seeds: 28924,  8266 rand_inst: 149
+ Random seeds: 19719,  8265 rand_inst:  57
+ Random seeds: 29023,  8266 rand_inst: 150
+ Random seeds: 19819,  8265 rand_inst:  58
+ Random seeds: 29124,  8266 rand_inst: 151
+ Random seeds: 19919,  8265 rand_inst:  59
+ Random seeds: 29323,  8266 rand_inst: 153
+ Random seeds: 20019,  8265 rand_inst:  60
+ Random seeds: 29424,  8266 rand_inst: 154
+ Random seeds: 20120,  8266 rand_inst:  61
+ Random seeds: 29523,  8266 rand_inst: 155
+ Random seeds: 22727,  8266 rand_inst:  87
+ Random seeds: 23727,  8266 rand_inst:  97
+ Random seeds: 24226,  8266 rand_inst: 102
+ Random seeds: 24326,  8266 rand_inst: 103
+ Random seeds: 24726,  8266 rand_inst: 107
+ Random seeds: 25026,  8266 rand_inst: 110
+ Random seeds: 25227,  8266 rand_inst: 112
+ Random seeds: 25326,  8266 rand_inst: 113
+ Random seeds: 25526,  8266 rand_inst: 115
+ Random seeds: 25627,  8266 rand_inst: 116
+ Random seeds: 25727,  8266 rand_inst: 117
+ Random seeds: 25826,  8266 rand_inst: 118
+ Random seeds: 25926,  8266 rand_inst: 119
+ Random seeds: 26027,  8266 rand_inst: 120
+ Random seeds: 22127,  8266 rand_inst:  81
+ Random seeds: 22227,  8266 rand_inst:  82
+ Random seeds: 22327,  8266 rand_inst:  83
+ Random seeds: 22528,  8266 rand_inst:  85
+ Random seeds: 22627,  8266 rand_inst:  86
+ Random seeds: 22827,  8266 rand_inst:  88
+ Random seeds: 22928,  8266 rand_inst:  89
+ Random seeds: 23027,  8266 rand_inst:  90
+ Random seeds: 23127,  8266 rand_inst:  91
+ Random seeds: 23227,  8266 rand_inst:  92
+ Random seeds: 23327,  8266 rand_inst:  93
+ Random seeds: 23427,  8266 rand_inst:  94
+ Random seeds: 23528,  8266 rand_inst:  95
+ Random seeds: 23627,  8266 rand_inst:  96
+ Random seeds: 23827,  8266 rand_inst:  98
+ Random seeds: 29624,  8266 rand_inst: 156
+ Random seeds: 29724,  8266 rand_inst: 157
+ Random seeds:  1690,  8265 rand_inst: 190
+ Random seeds: 20219,  8265 rand_inst:  62
+ Random seeds: 29823,  8266 rand_inst: 158
+ Random seeds:  1790,  8265 rand_inst: 191
+ Random seeds: 20320,  8266 rand_inst:  63
+ Random seeds: 29923,  8266 rand_inst: 159
+ Random seeds:  1990,  8265 rand_inst: 193
+ Random seeds: 20420,  8266 rand_inst:  64
+ Random seeds: 28223,  8266 rand_inst: 142
+ Random seeds:  2090,  8265 rand_inst: 194
+ Random seeds: 20720,  8266 rand_inst:  67
+ Random seeds: 28724,  8266 rand_inst: 147
+ Random seeds:  2190,  8265 rand_inst: 195
+ Random seeds: 20920,  8266 rand_inst:  69
+ Random seeds: 28823,  8266 rand_inst: 148
+ Random seeds:  2490,  8265 rand_inst: 198
+ Random seeds: 21120,  8266 rand_inst:  71
+ Random seeds: 29223,  8266 rand_inst: 152
+ Random seeds:  2590,  8265 rand_inst: 199
+ Random seeds: 21220,  8266 rand_inst:  72
+ Random seeds: 30024,  8266 rand_inst: 160
+ Random seeds:  2690,  8265 rand_inst: 200
+ Random seeds: 21320,  8266 rand_inst:  73
+ Random seeds: 27619,  8265 rand_inst: 136
+ Random seeds:  1892,  8266 rand_inst: 192
+ Random seeds: 21619,  8265 rand_inst:  76
+ Random seeds:    86,  8265 rand_inst: 174
+ Random seeds: 21820,  8266 rand_inst:  78
+ Random seeds: 18519,  8265 rand_inst:  45
+ Random seeds: 23927,  8266 rand_inst:  99
+ Random seeds: 24028,  8266 rand_inst: 100
+ Random seeds: 24128,  8266 rand_inst: 101
+ Random seeds: 24427,  8266 rand_inst: 104
+ Random seeds: 24627,  8266 rand_inst: 106
+ Random seeds: 24827,  8266 rand_inst: 108
+ Random seeds: 24928,  8266 rand_inst: 109
+ Random seeds: 25128,  8266 rand_inst: 111
+ Random seeds: 25428,  8266 rand_inst: 114
+ Random seeds: 24527,  8266 rand_inst: 105
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+----
+clik version 3be036bbb4f9
+  smica
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+ Clik will run with the following nuisance parameters:
+ A_cib_217 
+ cib_index 
+ xi_sz_cib 
+ A_sz 
+ ps_A_100_100 
+ ps_A_143_143 
+ ps_A_143_217 
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+ ps_A_217_217 
+ ksz_norm 
+ gal545_A_100 
+ gal545_A_143 
+ gal545_A_143_217 
+ gal545_A_217 
+ galf_EE_A_100 
+ galf_EE_A_100_143 
+ galf_EE_A_100_217 
+ galf_EE_A_143 
+ galf_EE_A_143_217 
+ galf_EE_A_217 
+ galf_EE_index 
+ galf_TE_A_100 
+ galf_TE_A_100_143 
+ galf_TE_A_100_217 
+ galf_TE_A_143 
+ galf_TE_A_143_217 
+ galf_TE_A_217 
+ galf_TE_index 
+ A_cnoise_e2e_100_100_EE 
+ A_cnoise_e2e_143_143_EE 
+ A_cnoise_e2e_217_217_EE 
+ A_sbpx_100_100_TT 
+ A_sbpx_143_143_TT 
+ A_sbpx_143_217_TT 
+ A_sbpx_217_217_TT 
+ A_sbpx_100_100_EE 
+ A_sbpx_100_143_EE 
+ A_sbpx_100_217_EE 
+ A_sbpx_143_143_EE 
+ A_sbpx_143_217_EE 
+ A_sbpx_217_217_EE 
+ calib_100T 
+ calib_217T 
+ calib_100P 
+ calib_143P 
+ calib_217P 
+ A_pol 
+ A_planck 
+ Using clik with likelihood file 
+ ./data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+Checking likelihood './data/clik_14.0/hi_l/plik/plik_rd12_HM_v22b_TTTEEE.clik' on test data. got -1172.47 expected -1172.47 (diff -4.34055e-07)
+----
+   TT from l=0 to l=        2508
+   EE from l=0 to l=        2508
+   TE from l=0 to l=        2508
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+ Clik will run with the following nuisance parameters:
+ A_planck 
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+ Using clik with likelihood file 
+ ./data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+----
+clik version 3be036bbb4f9
+  gibbs_gauss b13c8fda-1837-41b5-ae2d-78d6b723fcf1
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+Checking likelihood './data/clik_14.0/low_l/commander/commander_dx12_v3_2_29.clik' on test data. got -11.6257 expected -11.6257 (diff -1.07424e-09)
+----
+   TT from l=0 to l=          29
+   TT from l=0 to l=          29
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+Initializing SimAll
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+----
+clik version 3be036bbb4f9
+  simall simall_EE_BB_TE
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+ Clik will run with the following nuisance parameters:
+ A_planck 
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+ Doing non-linear Pk: F
+ Doing CMB lensing: T
+ Doing non-linear lensing: T
+ TT lmax =  2508
+ EE lmax =  2508
+ ET lmax =  2508
+ BB lmax =  2500
+ PP lmax =  2500
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+ lmax_computed_cl  =  2508
+ Computing tensors: F
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+ max_eta_k         =    14000.00    
+ transfer kmax     =    1.000000    
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+Checking likelihood './data/clik_14.0/low_l/simall/simall_100x143_offlike5_EE_Aplanck_B.clik' on test data. got -197.99 expected -197.99 (diff -4.1778e-08)
+----
+   EE from l=0 to l=          29
+ adding parameters for: simall_100x143_offlike5_EE_Aplanck_B
+ adding parameters for: commander_dx12_v3_2_29
+ adding parameters for: plik_rd12_HM_v22b_TTTEEE
+ Fast divided into            2  blocks
+ Block breaks at:            8
+ 27 parameters ( 6 slow ( 0 semi-slow), 21 fast ( 0 semi-fast))
+ starting nested sampling
+====================
+directory error: chains/planckhsc/clusters does not exist
+====================
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0
+In: PMI_Abort(1, application called MPI_Abort(MPI_COMM_WORLD, 1) - process 0)
+srun: Job step aborted: Waiting up to 47 seconds for job step to finish.
+slurmstepd: error: *** STEP 3524524.0 ON tiger-h19c2n1 CANCELLED AT 2019-08-26T14:05:54 ***
+srun: error: tiger-h19c2n3: tasks 80,82-83,85-86,88,93: Killed
+srun: Terminating job step 3524524.0
+srun: error: tiger-h19c2n1: tasks 2,35: Killed
+srun: error: tiger-h19c2n2: tasks 41,47,62,68-72,74-79: Killed
+srun: error: tiger-h19c2n18: tasks 160-161,163,167,173,175,186,191-193,195: Killed
+srun: error: tiger-h19c2n3: tasks 81,84,87,90-92,95-99,101-103,108,110-119: Killed
+srun: error: tiger-h19c2n1: tasks 3,5,7,9,37: Killed
+srun: error: tiger-h19c2n2: tasks 42-44,48,50-54,56-58,63-65,67,73: Killed
+srun: error: tiger-h19c2n18: tasks 162,164-166,168-172,174,176-179,181-185,187-190,194,196-199: Killed
+srun: error: tiger-h19c2n18: task 180: Killed
+srun: error: tiger-h19c2n3: tasks 89,104-107,109: Killed
+srun: error: tiger-h19c2n17: tasks 120-123,125-126,128,130-132,155,157-158: Killed
+srun: error: tiger-h19c2n1: task 0: Exited with exit code 1
+srun: error: tiger-h19c2n1: tasks 1,4,6,8,10-11,13,16-17,21-22,26,31-32,36: Killed
+srun: error: tiger-h19c2n2: tasks 40,45-46,49,55,59-61,66: Killed
+srun: error: tiger-h19c2n17: tasks 124,127,129,136,142,147-152,154,156: Killed
+srun: error: tiger-h19c2n3: tasks 94,100: Killed
+srun: error: tiger-h19c2n1: tasks 12,14-15,18,23-25,27-30,33-34: Killed
+srun: error: tiger-h19c2n17: tasks 133,135,137-139,143-146,159: Killed
+srun: error: tiger-h19c2n1: tasks 19-20,38-39: Killed
+srun: error: tiger-h19c2n17: tasks 134,140-141,153: Killed

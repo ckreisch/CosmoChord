@@ -12,6 +12,6 @@ source /home/ckreisch/.bash_profile
 
 cd /tigress/ckreisch/vanilla/CosmoChord
 
-srun --mpi=pmi2 ./cosmomc test_litehsc.ini
+srun --mpi=pmi2 ./cosmomc test_planck_hsc_lite.ini
 
 #mpirun -n 8 --cpus-per-proc 4 ./cosmomc test.ini
